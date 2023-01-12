@@ -1,0 +1,19 @@
+WurmBarbecueRecipe:
+  Activated: true
+  Educt Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_RAW_BEEF
+  Product Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_COOKED_BEEF
+  Recipe Type: 0
+  Cooking Time: 45
+  Educt Message: 
+  Product Message: The beef should be roasted by now!
+  Recipe Book:
+    Educt Name: Raw chicken
+    Product Name: Cooked chicken
+    Recipe Name: Chicken Curry
+    Description: Asian flair with Indish spices

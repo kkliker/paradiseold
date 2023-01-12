@@ -1,0 +1,1007 @@
+[15:13:13] [ServerMain/INFO]: Building unoptimized datafixer
+[15:13:15] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[15:13:15] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:13:18] [ServerMain/INFO]: Loaded 7 recipes
+[15:13:20] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[15:13:20] [Server thread/INFO]: Loading properties
+[15:13:20] [Server thread/INFO]: This server is running Patina version git-Paper-"f381a0a" (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT) (Git: f381a0a on ver/1.19.2)
+[15:13:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:13:21] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:13:21] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[15:13:21] [Server thread/INFO]: [Pufferfish] Max SIMD vector size on this system is 256 bits (int)
+[15:13:21] [Server thread/INFO]: [Pufferfish] Max SIMD vector size on this system is 256 bits (float)
+[15:13:21] [Server thread/INFO]: [Pufferfish] SIMD operations detected as functional. Will replace some operations with faster versions.
+[15:13:21] [Server thread/INFO]: Default game type: SURVIVAL
+[15:13:21] [Server thread/INFO]: Generating keypair
+[15:13:22] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:49178
+[15:13:22] [Server thread/INFO]: Using epoll channel type
+[15:13:22] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[15:13:22] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[15:13:23] [Server thread/INFO]: [SKLibrary] Loading 1 libraries... please wait
+[15:13:23] [Server thread/INFO]: [SKLibrary] Loaded library /home/container/libraries/org/postgresql/postgresql/42.3.3/postgresql-42.3.3.jar
+[15:13:23] [Server thread/INFO]: [SKLibrary] Loaded library /home/container/libraries/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0.jar
+[15:13:23] [Server thread/ERROR]: [STDERR] [org.bukkit.craftbukkit.v1_19_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[15:13:31] [Server thread/WARN]: Legacy plugin Animotion v1.0_i_patch3 does not specify an api-version.
+[15:13:31] [Server thread/WARN]: Legacy plugin WurmBarbecue v2.5.1 does not specify an api-version.
+[15:13:31] [Server thread/INFO]: [PlayerNPC] Your server is using Bukkit version: 1.19.2-R0.1-SNAPSHOT
+[15:13:32] [Server thread/INFO]: [Corpses] Your server is using Bukkit version: 1.19.2-R0.1-SNAPSHOT
+[15:13:32] [Server thread/INFO]: [LiteEco] Loading 2 libraries... please wait
+[15:13:32] [Server thread/INFO]: [LiteEco] Loaded library /home/container/libraries/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar
+[15:13:32] [Server thread/INFO]: [LiteEco] Loaded library /home/container/libraries/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar
+[15:13:32] [Server thread/INFO]: [LiteEco] Loaded library /home/container/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.7.20/kotlin-stdlib-jdk8-1.7.20.jar
+[15:13:32] [Server thread/INFO]: [LiteEco] Loaded library /home/container/libraries/org/jetbrains/kotlin/kotlin-stdlib/1.7.20/kotlin-stdlib-1.7.20.jar
+[15:13:32] [Server thread/INFO]: [LiteEco] Loaded library /home/container/libraries/org/jetbrains/kotlin/kotlin-stdlib-common/1.7.20/kotlin-stdlib-common-1.7.20.jar
+[15:13:32] [Server thread/INFO]: [LiteEco] Loaded library /home/container/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
+[15:13:32] [Server thread/INFO]: [LiteEco] Loaded library /home/container/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.7.20/kotlin-stdlib-jdk7-1.7.20.jar
+[15:13:32] [Server thread/INFO]: [BigDoors] Loading 1 libraries... please wait
+[15:13:32] [Server thread/INFO]: [BigDoors] Loaded library /home/container/libraries/net/bytebuddy/byte-buddy/1.12.10/byte-buddy-1.12.10.jar
+[15:13:32] [Server thread/WARN]: Legacy plugin CitizenHats v1.35 does not specify an api-version.
+[15:13:32] [Server thread/INFO]: [nAntiBot] Loading nAntiBot v6.0.6
+[15:13:33] [Server thread/INFO]: [Elevators] Loading Elevators v3.3.4
+[15:13:33] [Server thread/INFO]: [qOtsosZaGrivnu] Loading qOtsosZaGrivnu v0.1
+[15:13:33] [Server thread/INFO]: [SKLibrary] Loading SKLibrary v1.15.3
+[15:13:33] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.2
+[15:13:33] [Server thread/INFO]: [Animotion] Loading Animotion v1.0_i_patch3
+[15:13:33] [Server thread/INFO]: [qTab] Loading qTab v0.1
+[15:13:33] [Server thread/INFO]: [ParadiseRP] Loading ParadiseRP v1.0.0
+[15:13:33] [Server thread/INFO]: [qLobby] Loading qLobby v0.1
+[15:13:33] [Server thread/INFO]: [WurmBarbecue] Loading WurmBarbecue v2.5.1
+[15:13:33] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v3.0.1-SNAPSHOT-b236
+[15:13:33] [Server thread/INFO]: [eHideTags] Loading eHideTags v1.7.3
+[15:13:33] [Server thread/INFO]: [Core] Loading Core v0.5.7
+[15:13:33] [Server thread/INFO]: [Core] Checking update for Core v0.5.7
+[15:13:34] [Server thread/INFO]: [PassportPlus] Loading PassportPlus v0.1
+[15:13:34] [Server thread/INFO]: [CustomItems] Loading CustomItems v0.1
+[15:13:34] [Server thread/INFO]: [TabCompleteFilter] Loading TabCompleteFilter v1.1.1
+[15:13:34] [Server thread/INFO]: [BetterSnowierSnow] Loading BetterSnowierSnow v1.1
+[15:13:34] [Server thread/INFO]: [Handcuff] Loading Handcuff v1.2.2
+[15:13:34] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.5.0-22w44a-SNAPSHOT
+[15:13:34] [Server thread/INFO]: [ViaVersion] ViaVersion 4.5.0-22w44a-SNAPSHOT is now loaded, injecting!
+[15:13:34] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[15:13:34] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[15:13:34] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[15:13:34] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[15:13:34] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[15:13:34] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[15:13:35] [Via-Mappingloader-6/INFO]: [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
+[15:13:35] [Via-Mappingloader-7/INFO]: [ViaVersion] Loading 1.17 -> 1.18 mappings...
+[15:13:35] [Via-Mappingloader-8/INFO]: [ViaVersion] Loading 1.18 -> 1.19 mappings...
+[15:13:35] [Via-Mappingloader-9/INFO]: [ViaVersion] Loading 1.19 -> 1.19.3 mappings...
+[15:13:35] [Server thread/INFO]: [NBTAPI] Loading NBTAPI v2.10.0
+[15:13:35] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_19_R1! Trying to find NMS support
+[15:13:35] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_19_R1' loaded!
+[15:13:35] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[15:13:35] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'nAntiBot' to create a bStats instance!
+[15:13:36] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[15:13:36] [Server thread/INFO]: [PlayerNPC] Loading PlayerNPC v2022.8
+[15:13:36] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.5.0-22w44a-SNAPSHOT
+[15:13:36] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[15:13:36] [Thread-7/WARN]: [NBTAPI] [NBTAPI] The NBT-API located at 'package de.tr7zw.nbtapi' seems to be outdated!
+[15:13:36] [Thread-7/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.10.0' Newest Version: 2.11.1'
+[15:13:36] [Thread-7/WARN]: [NBTAPI] [NBTAPI] Please update the NBTAPI or the plugin that contains the api(nag the mod author when the newest release has an old version, not the NBTAPI dev)!
+[15:13:37] [Via-Mappingloader-1/INFO]: [ViaBackwards] Loading 1.10 -> 1.9.4 mappings...
+[15:13:37] [Via-Mappingloader-1/INFO]: [ViaBackwards] Loading 1.11 -> 1.10 mappings...
+[15:13:37] [Via-Mappingloader-4/INFO]: [ViaBackwards] Loading 1.12 -> 1.11 mappings...
+[15:13:38] [Via-Mappingloader-6/INFO]: [ViaBackwards] Loading 1.13.2 -> 1.13 mappings...
+[15:13:38] [Via-Mappingloader-6/INFO]: [ViaBackwards] Loading 1.14 -> 1.13.2 mappings...
+[15:13:38] [Via-Mappingloader-5/INFO]: [ViaBackwards] Loading 1.13 -> 1.12 mappings...
+[15:13:38] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.15 -> 1.14 mappings...
+[15:13:39] [Via-Mappingloader-5/INFO]: [ViaBackwards] Loading 1.16 -> 1.15 mappings...
+[15:13:39] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.16.2 -> 1.16 mappings...
+[15:13:39] [Via-Mappingloader-6/INFO]: [ViaBackwards] Loading 1.17 -> 1.16.2 mappings...
+[15:13:39] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.18 -> 1.17 mappings...
+[15:13:39] [Via-Mappingloader-6/INFO]: [ViaBackwards] Loading 1.19 -> 1.18 mappings...
+[15:13:39] [Via-Mappingloader-6/INFO]: [ViaBackwards] Loading 1.19.3 -> 1.19 mappings...
+[15:13:39] [Server thread/INFO]: [OpenRP] Loading OpenRP v2.3.5
+[15:13:39] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.40
+[15:13:40] [Server thread/INFO]: [PlasmoVoice] Loading PlasmoVoice v1.0.11
+[15:13:40] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v5.0.0-SNAPSHOT-b602
+[15:13:40] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.19.2) has not yet been tested! Proceed with caution.
+[15:13:41] [Server thread/INFO]: [MessageOverHead] Loading MessageOverHead v3.03
+[15:13:41] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v14.2.3
+[15:13:41] [Server thread/INFO]: [Corpses] Loading Corpses v2022.10
+[15:13:41] [Server thread/INFO]: [qBreakPlus] Loading qBreakPlus v0.1
+[15:13:41] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[15:13:41] [Server thread/INFO]: [LiteEco] Loading LiteEco v1.1.4-SNAPSHOT
+[15:13:41] [Server thread/INFO]: [LiteEco] Configuration database.db exist !
+[15:13:41] [Server thread/INFO]: [LiteEco] Configuration config.yml exist !
+[15:13:41] [Server thread/INFO]: [qFight] Loading qFight v0.1
+[15:13:41] [Server thread/INFO]: [nLogin] Loading nLogin v10.1.8
+[15:13:42] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.12+6240-87f4ae1
+[15:13:43] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@7640f821]
+[15:13:43] [Server thread/INFO]: [CustomF3] Loading CustomF3 v0.1
+[15:13:43] [Server thread/INFO]: [Trey's Command Blocker] Loading CommandBlocker v2.1.2
+[15:13:43] [Server thread/INFO]: [qBank] Loading qBank v0.1
+[15:13:43] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.8-beta-01+cbb2ba7
+[15:13:43] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.30-SNAPSHOT (build 2756)
+[15:13:43] [Server thread/INFO]: [BigDoors] Loading BigDoors vAlpha 0.1.8.40
+[15:13:43] [Server thread/INFO]: [GSit] Loading GSit v1.2.8
+[15:13:43] [Server thread/INFO]: [CitizenHats] Loading CitizenHats v1.35
+[15:13:43] [Server thread/INFO]: [ReviveMe] Loading ReviveMe v2.6.5
+[15:13:43] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v21.3
+[15:13:43] [Server thread/INFO]: [MechanicsCore] Loading MechanicsCore v1.8.1
+[15:13:43] [Server thread/INFO]: [Skript] Loading Skript v2.6.3
+[15:13:43] [Server thread/INFO]: [WeaponMechanics] Loading WeaponMechanics v1.14.2
+[15:13:44] [Server thread/INFO]: [WeaponMechanics] Detected WorldGuard, registering flags
+[15:13:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:13:44] [Server thread/INFO]: [nAntiBot] Enabling nAntiBot v6.0.6
+[15:13:45] [Server thread/INFO]: [nAntiBot] Successful plugin core start (took 0.99s)
+[15:13:45] [Server thread/INFO]:           _         _   _   ___       _   
+[15:13:45] [Server thread/INFO]:   _ __   /_\  _ __ | |_(_) / __\ ___ | |_ 
+[15:13:45] [Server thread/INFO]:  | '_ \ //_\\| '_ \| __| |/__\/// _ \| __|
+[15:13:45] [Server thread/INFO]:  | | | /  _  \ | | | |_| / \/  \ (_) | |_ 
+[15:13:45] [Server thread/INFO]:  |_| |_\_/ \_/_| |_|\__|_\_____/\___/ \__|
+[15:13:45] [Server thread/INFO]:                                          
+[15:13:45] [Server thread/INFO]:  By: www.nickuc.com - V 6.0.6
+[15:13:45] [Server thread/INFO]: 
+[15:13:46] [Server thread/INFO]: [SKLibrary] Enabling SKLibrary v1.15.3
+[15:13:46] [Server thread/INFO]: [Core] Enabling Core v0.5.7
+[15:13:46] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.40
+[15:13:49] [Server thread/INFO]:         __    
+[15:13:49] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.40
+[15:13:49] [Server thread/INFO]:   |___ |      Running on Bukkit - Patina
+[15:13:49] [Server thread/INFO]: 
+[15:13:49] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[15:13:51] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[15:13:54] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[15:13:55] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[15:13:56] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 9694ms)
+[15:13:56] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.0.0-SNAPSHOT-b602
+[15:13:56] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[15:13:57] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[15:13:57] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[15:13:57] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[15:13:57] [Server thread/INFO]: [LiteEco] Enabling LiteEco v1.1.4-SNAPSHOT
+[15:13:57] [Server thread/WARN]: [LiteEco] PlaceholderAPI hook initialized
+[15:13:57] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: liteeco [1.0.0]
+[15:13:57] [Server thread/WARN]: [LiteEco] Registered Vault interface.
+[15:13:58] [Server thread/INFO]: [LiteEco] Please download update of plugin LiteEco your version: 1.1.4-SNAPSHOT > updated version: 1.1.8-SNAPSHOT
+[15:13:58] [Server thread/INFO]: [LiteEco] Registering commands with Cloud Command Framework !
+[15:14:00] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[15:14:00] [Server thread/INFO]: [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@6366fd75
+[15:14:00] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[15:14:00] [Server thread/INFO]: [LiteEco] Table lite_eco was successfully created.
+[15:14:00] [Server thread/INFO]: [LiteEco] Bukkit Listener AccountEconomyManageListener registered () -> ok
+[15:14:00] [Server thread/INFO]: [LiteEco] Bukkit Listener PlayerEconomyPayListener registered () -> ok
+[15:14:00] [Server thread/INFO]: [LiteEco] Bukkit Listener ConsoleEconomyTransactionListener registered () -> ok
+[15:14:00] [Server thread/INFO]: [LiteEco] Bukkit Listener PlayerJoinListener registered () -> ok
+[15:14:00] [Server thread/INFO]: [LiteEco] Listeners registered(4) in time 93 ms -> ok
+[15:14:00] [Server thread/INFO]: [LiteEco] Plugin enabled in time 3394 ms
+[15:14:00] [Server thread/INFO]: [nLogin] Enabling nLogin v10.1.8
+[15:14:04] [Server thread/INFO]: [nLogin] Successful plugin core start (took 3.29s)
+[15:14:04] [Server thread/INFO]:           __             _       
+[15:14:04] [Server thread/INFO]:   _ __   / /  ___   __ _(_)_ __  
+[15:14:04] [Server thread/INFO]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[15:14:04] [Server thread/INFO]:  | | | / /__| (_) | (_| | | | | |
+[15:14:04] [Server thread/INFO]:  |_| |_\____/\___/ \__, |_|_| |_|
+[15:14:04] [Server thread/INFO]:                   |___/            
+[15:14:04] [Server thread/INFO]:  By: www.nickuc.com - V 10.1.8 DEVELOPMENT
+[15:14:04] [Server thread/INFO]: 
+[15:14:09] [Server thread/INFO]: [nLogin] nLogin was loaded in 5203ms.
+[15:14:09] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.12+6240-87f4ae1
+[15:14:09] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[15:14:09] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[15:14:10] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_19_R1.PaperweightAdapter as the Bukkit adapter
+[15:14:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:14:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:14:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:14:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:14:13] [Server thread/INFO]: Preparing level "world"
+[15:14:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:14:16] [Server thread/INFO]: Time elapsed: 491 ms
+[15:14:16] [Server thread/INFO]: [Elevators] Enabling Elevators v3.3.4
+[15:14:16] [Server thread/INFO]: [Elevators] Elevators Plugin Loaded!
+[15:14:16] [Server thread/INFO]: [qOtsosZaGrivnu] Enabling qOtsosZaGrivnu v0.1
+[15:14:16] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.2
+[15:14:16] [Server thread/WARN]: [PlaceholderAPI] Loaded class com.viaversion.viaversion.api.type.Type from ViaVersion v4.5.0-22w44a-SNAPSHOT which is not a depend or softdepend of this plugin.
+[15:14:17] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[15:14:17] [Server thread/INFO]: [Animotion] Enabling Animotion v1.0_i_patch3*
+[15:14:17] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: animotion [1a]
+[15:14:17] [Server thread/INFO]: Animotion PlaceholderAPI expansion has been enabled.
+[15:14:18] [Server thread/INFO]: Animotion Animotion is ready to use !
+[15:14:18] [Server thread/INFO]: Animotion You're running on last version.
+[15:14:18] [Server thread/INFO]: [qTab] Enabling qTab v0.1
+[15:14:19] [Server thread/INFO]: [ParadiseRP] Enabling ParadiseRP v1.0.0
+[15:14:19] [Server thread/INFO]: [qLobby] Enabling qLobby v0.1
+[15:14:19] [Server thread/INFO]: [WurmBarbecue] Enabling WurmBarbecue v2.5.1*
+[15:14:19] [Server thread/INFO]: [WurmBarbecue] [STDOUT] [WurmBarbecue] Done checking defaults!
+[15:14:19] [Server thread/WARN]: Nag author(s): '[Regenwurm97]' of 'WurmBarbecue' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[15:14:19] [Server thread/INFO]: [WurmBarbecue] [STDOUT] [WurmBarbecue] Done loading cooking recipes!
+[15:14:19] [Server thread/INFO]: [WurmBarbecue] [STDOUT] [WurmBarbecue] You are now able to use "WurmBarbecue" optimized for minecraft version 2.5.1 !
+[15:14:19] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v3.0.1-SNAPSHOT-b236
+[15:14:20] [Server thread/INFO]: [eHideTags] Enabling eHideTags v1.7.3
+[15:14:21] [Server thread/INFO]: 
+[15:14:21] [Server thread/INFO]: eHideTags | Successfully enabled
+[15:14:21] [Server thread/INFO]: 
+[15:14:21] [Server thread/INFO]: [PassportPlus] Enabling PassportPlus v0.1
+[15:14:21] [Server thread/INFO]: [CustomItems] Enabling CustomItems v0.1
+[15:14:21] [Server thread/INFO]: [TabCompleteFilter] Enabling TabCompleteFilter v1.1.1
+[15:14:21] [Server thread/INFO]: [BetterSnowierSnow] Enabling BetterSnowierSnow v1.1
+[15:14:21] [Server thread/INFO]: [Handcuff] Enabling Handcuff v1.2.2
+[15:14:22] [Server thread/INFO]: [Handcuff] ---------------------------------------
+[15:14:22] [Server thread/INFO]: [Handcuff] Handcuff by iVirus_
+[15:14:22] [Server thread/INFO]: [Handcuff] Version: 1.2.2
+[15:14:22] [Server thread/INFO]: [Handcuff] Discord support: https://discord.io/hoxija
+[15:14:22] [Server thread/INFO]: [Handcuff] Telegram channel: https://t.me/HoxijaChannel
+[15:14:22] [Server thread/INFO]: [Handcuff] Plugin is ready!
+[15:14:22] [Server thread/INFO]: [Handcuff] ---------------------------------------
+[15:14:22] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.5.0-22w44a-SNAPSHOT
+[15:14:22] [Server thread/INFO]: [NBTAPI] Enabling NBTAPI v2.10.0
+[15:14:22] [Server thread/INFO]: [NBTAPI] Adding listeners...
+[15:14:22] [Server thread/INFO]: [NBTAPI] Gson:
+[15:14:22] [Server thread/INFO]: [NBTAPI] Checking bindings...
+[15:14:22] [Server thread/INFO]: [NBTAPI] All Classes were able to link!
+[15:14:22] [Server thread/INFO]: [NBTAPI] All Methods were able to link!
+[15:14:22] [Server thread/INFO]: [NBTAPI] Running NBT reflection test...
+[15:14:23] [Server thread/INFO]: [NBTAPI] Success! This version of NBT-API is compatible with your server.
+[15:14:23] [Server thread/INFO]: [PlayerNPC] Enabling PlayerNPC v2022.8
+[15:14:24] [Server thread/INFO]: PlayerNPC | Registered PlayerNPC plugin on the NPCLib
+[15:14:24] [Server thread/INFO]: PlayerNPC | Loading Persistent Global NPCs for plugin PlayerNPC
+[15:14:24] [Server thread/INFO]: PlayerNPC | No Persistent NPC found for plugin PlayerNPC
+[15:14:24] [Server thread/INFO]: PlayerNPC | The plugin has been enabled successfully
+[15:14:24] [Server thread/INFO]: PlayerNPC | Plugin created by SergiFerry
+[15:14:24] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.5.0-22w44a-SNAPSHOT
+[15:14:24] [Server thread/INFO]: [OpenRP] Enabling OpenRP v2.3.5
+[15:14:24] [Server thread/INFO]: [OpenRP] Detected Bukkit Version: 1.19.2-R0.1-SNAPSHOT
+[15:14:24] [Server thread/INFO]: [OpenRP] Bukkit Version is 1.16+, hex color code support enabled!
+[15:14:24] [Server thread/INFO]: [OpenRP] Registering Chat Channels...
+[15:14:24] [Server thread/INFO]: [OpenRP] Reset all fake commands!
+[15:14:24] [Server thread/INFO]: [OpenRP] Creating fake command for in-character. . .
+[15:14:24] [Server thread/INFO]: [OpenRP] in-character: [rpe]
+[15:14:24] [Server thread/INFO]: [OpenRP] Creating fake command for outside-of-actions. . .
+[15:14:24] [Server thread/INFO]: [OpenRP] outside-of-actions: [nrp]
+[15:14:24] [Server thread/INFO]: [OpenRP] Creating fake command for out-of-character. . .
+[15:14:24] [Server thread/INFO]: [OpenRP] out-of-character: [oocb]
+[15:14:24] [Server thread/INFO]: [OpenRP] Creating fake command for action. . .
+[15:14:24] [Server thread/INFO]: [OpenRP] action: [me]
+[15:14:24] [Server thread/INFO]: [OpenRP] Creating fake command for whisper-chat. . .
+[15:14:24] [Server thread/INFO]: [OpenRP] whisper-chat: [whisper, w]
+[15:14:24] [Server thread/INFO]: [OpenRP] Creating fake command for shout. . .
+[15:14:24] [Server thread/INFO]: [OpenRP] shout: [shout, s]
+[15:14:24] [Server thread/INFO]: [OpenRP] Creating fake command for shiza. . .
+[15:14:24] [Server thread/INFO]: [OpenRP] shiza: [shiza]
+[15:14:24] [Server thread/INFO]: [OpenRP] Registering Chat Listeners...
+[15:14:24] [Server thread/INFO]: [OpenRP] Channel in-character inhibits action behaviour. Implementing. . .
+[15:14:24] [Server thread/INFO]: [OpenRP] Chat Loaded!
+[15:14:24] [Server thread/INFO]: [OpenRP] Registering Descriptions Fields...
+[15:14:24] [Server thread/INFO]: [OpenRP] added : Имя
+[15:14:24] [Server thread/INFO]: [OpenRP] added : Фамилия
+[15:14:24] [Server thread/INFO]: [OpenRP] added : Возраст
+[15:14:24] [Server thread/INFO]: [OpenRP] added : Пол
+[15:14:24] [Server thread/INFO]: [OpenRP] added : Рост
+[15:14:24] [Server thread/INFO]: [OpenRP] added : Описание
+[15:14:24] [Server thread/INFO]: [OpenRP] Registering Descriptions Commands...
+[15:14:24] [Server thread/INFO]: [OpenRP] Registering Descriptions Listeners...
+[15:14:24] [Server thread/INFO]: [OpenRP] Registering Descriptions Expansions...
+[15:14:24] [Server thread/INFO]: [OpenRP] Running Descriptions Default Info Completer. This is Async, but might take a bit...
+[15:14:24] [Server thread/INFO]: [OpenRP] Descriptions Loaded!
+[15:14:24] [Server thread/INFO]: [OpenRP] Registering Roll Commands...
+[15:14:24] [Server thread/INFO]: [OpenRP] Rolls Loaded!
+[15:14:24] [Server thread/INFO]: [OpenRP] Registering Time Worlds...
+[15:14:24] [Server thread/INFO]: [OpenRP] Registering Time Commands...
+[15:14:24] [Server thread/INFO]: [OpenRP] Time Loaded!
+[15:14:24] [Server thread/INFO]: [OpenRP] Found PlaceholderAPI. Hooking into it!
+[15:14:24] [Server thread/INFO]: [OpenRP] Registering Descriptions Expansions...
+[15:14:24] [Server thread/INFO]: [OpenRP] Registering Time Expansions...
+[15:14:24] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: orpdesc [2.3.5]
+[15:14:24] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: orptime [2.3.5]
+[15:14:24] [Server thread/INFO]: [PlasmoVoice] Enabling PlasmoVoice v1.0.11
+[15:14:24] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: plasmovoice [1.0.0]
+[15:14:24] [Thread-12/INFO]: [PlasmoVoice] Voice UDP server started on /0.0.0.0:49178
+[15:14:24] [Server thread/INFO]: [MessageOverHead] Enabling MessageOverHead v3.03
+[15:14:24] [Server thread/INFO]: [MessageOverHead] Starting...
+[15:14:25] [Server thread/WARN]: [MessageOverHead] Loaded class net.milkbowl.vault.permission.Permission from Vault v1.7.3-b131 which is not a depend or softdepend of this plugin.
+[15:14:25] [Server thread/INFO]: [MessageOverHead] Check updates...
+[15:14:25] [Server thread/INFO]: [MessageOverHead] Plugin have last version
+[15:14:25] [Server thread/INFO]: [MessageOverHead] [ACF] Enabled Asynchronous Tab Completion Support!
+[15:14:25] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v14.2.3
+[15:14:26] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mDetected Minecraft [33;1mv1_19_R1[32;1m, using [33;1mMappingSpigotSkinRefresher[32;1m.[0;39m
+[15:14:26] [Server thread/INFO]: [SkinsRestorer] [ACF] Enabled Asynchronous Tab Completion Support!
+[15:14:27] [Server thread/INFO]: [Corpses] Enabling Corpses v2022.10
+[15:14:27] [Server thread/INFO]: PlayerNPC | Registered Corpses plugin on the NPCLib
+[15:14:27] [Server thread/INFO]: Corpses | The plugin has been enabled successfully
+[15:14:27] [Server thread/INFO]: Corpses | Plugin created by SergiFerry
+[15:14:27] [Server thread/INFO]: [qBreakPlus] Enabling qBreakPlus v0.1
+[15:14:27] [Server thread/INFO]: [qFight] Enabling qFight v0.1
+[15:14:27] [Server thread/INFO]: [CustomF3] Enabling CustomF3 v0.1
+[15:14:27] [Server thread/INFO]: [Trey's Command Blocker] Enabling CommandBlocker v2.1.2
+[15:14:28] [Server thread/INFO]: [qBank] Enabling qBank v0.1
+[15:14:28] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.8-beta-01+cbb2ba7
+[15:14:29] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[15:14:29] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[15:14:29] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[15:14:29] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[15:14:29] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[15:14:29] [Server thread/INFO]: [WorldGuard] Loading region data...
+[15:14:30] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.30-SNAPSHOT (build 2756)
+[15:14:30] [Server thread/INFO]: [Citizens] [Citizens] Downloading libraries, please wait...
+[15:14:30] [pool-18-thread-2/INFO]: [nAntiBot] [Captcha] Captchas generated successfully. (RAM usage ≃ 23.8 MB [static only], total = 1,500, protocol count = 34, threads = 2, took 44.19s)
+[15:14:31] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: citizensplaceholder [1.0.0]
+[15:14:31] [Server thread/INFO]: [Citizens] Loaded economy handling via Vault.
+[15:14:31] [Server thread/INFO]: [BigDoors] Enabling BigDoors vAlpha 0.1.8.40
+[15:14:31] [Server thread/INFO]: [BigDoors] Power Block Types:
+[15:14:31] [Server thread/INFO]: [BigDoors]  - GOLD_BLOCK
+[15:14:31] [Server thread/INFO]: [BigDoors] Blacklisted materials:
+[15:14:31] [Server thread/INFO]: [BigDoors]  - BEDROCK
+[15:14:31] [Server thread/INFO]: [BigDoors]  - END_PORTAL
+[15:14:31] [Server thread/INFO]: [BigDoors]  - END_PORTAL_FRAME
+[15:14:31] [Server thread/INFO]: [BigDoors]  - NETHER_PORTAL
+[15:14:31] [Server thread/INFO]: [BigDoors] No materials Whitelisted!
+[15:14:31] [Server thread/INFO]: [BigDoors] DestroyListed materials:
+[15:14:31] [Server thread/INFO]: [BigDoors]  - LAVA
+[15:14:31] [Server thread/INFO]: [BigDoors]  - WATER
+[15:14:31] [Server thread/INFO]: [BigDoors]  - SNOW
+[15:14:31] [Server thread/INFO]: [BigDoors]  - FERN
+[15:14:31] [Server thread/INFO]: [BigDoors]  - GRASS
+[15:14:31] [Server thread/INFO]: [BigDoors]  - TALL_GRASS
+[15:14:31] [Server thread/INFO]: [BigDoors]  - SEAGRASS
+[15:14:31] [Server thread/INFO]: [BigDoors]  - TALL_SEAGRASS
+[15:14:31] [Server thread/INFO]: [BigDoors] Enabling stats! Thanks, it really helps!
+[15:14:31] [Server thread/INFO]: [BigDoors] Successfully hooked into "WorldGuard"!
+[15:14:31] [Server thread/INFO]: [GSit] Enabling GSit v1.2.8
+[15:14:31] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
+[15:14:31] [Server thread/INFO]: [GSit] Link with WorldGuard successful!
+[15:14:31] [Server thread/INFO]: [GSit] Link with PlaceholderAPI successful!
+[15:14:31] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: gsit [1.2.8]
+[15:14:31] [Server thread/INFO]: [GSit] New version available: 1.3.0!
+[GSit] You are currently running version: 1.2.8!
+[GSit] Download the latest version at:
+[GSit] https://www.spigotmc.org/resources/62325
+[15:14:31] [Server thread/INFO]: [CitizenHats] Enabling CitizenHats v1.35*
+[15:14:31] [Server thread/INFO]: [ReviveMe] Enabling ReviveMe v2.6.5
+[15:14:32] [Server thread/INFO]: Reviveme loaded. selected version: v1_19_R1
+[15:14:32] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: reviveme [2.6.5]
+[15:14:32] [Server thread/WARN]: [ReviveMe] Badly implemented PlasmoVoice event. Update PlasmoVoice plugin.
+[15:14:32] [Server thread/INFO]: [ReviveMe] [STDOUT] [35;1m Downloaded from https://directleaks.to [0m
+[15:14:32] [Server thread/WARN]: Nag author(s): '[]' of 'ReviveMe' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[15:14:32] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v21.3
+[15:14:32] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
+[15:14:32] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[15:14:32] [Server thread/INFO]: --------------------
+[15:14:32] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[15:14:32] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[15:14:32] [Server thread/INFO]: --------------------
+[15:14:32] [Server thread/INFO]: [MechanicsCore] Enabling MechanicsCore v1.8.1
+[15:14:33] [Server thread/INFO]: [MechanicsCore] Registered 3 custom items from plugins/MechanicsCore/Items
+[15:14:33] [Server thread/INFO]: [Skript] Enabling Skript v2.6.3
+[15:14:34] [Thread-17/INFO]: [Skript] Checking for updates failed. Do you have Internet connection?
+[15:14:34] [Thread-17/WARN]: java.util.concurrent.CompletionException: java.lang.RuntimeException: java.io.IOException: Server returned HTTP response code: 403 for URL: https://api.github.com/repos/SkriptLang/Skript/releases
+[15:14:34] [Thread-17/WARN]: 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315)
+[15:14:34] [Thread-17/WARN]: 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320)
+[15:14:34] [Thread-17/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770)
+[15:14:34] [Thread-17/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[15:14:34] [Thread-17/WARN]: Caused by: java.lang.RuntimeException: java.io.IOException: Server returned HTTP response code: 403 for URL: https://api.github.com/repos/SkriptLang/Skript/releases
+[15:14:34] [Thread-17/WARN]: 	at Skript.jar//ch.njol.skript.update.GithubChecker.lambda$check$0(GithubChecker.java:111)
+[15:14:34] [Thread-17/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[15:14:34] [Thread-17/WARN]: 	... 1 more
+[15:14:34] [Thread-17/WARN]: Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL: https://api.github.com/repos/SkriptLang/Skript/releases
+[15:14:34] [Thread-17/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1997)
+[15:14:34] [Thread-17/WARN]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+[15:14:34] [Thread-17/WARN]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+[15:14:34] [Thread-17/WARN]: 	at java.base/java.net.URL.openStream(URL.java:1161)
+[15:14:34] [Thread-17/WARN]: 	at Skript.jar//ch.njol.skript.update.GithubChecker.lambda$check$0(GithubChecker.java:105)
+[15:14:34] [Thread-17/WARN]: 	... 2 more
+[15:14:44] [Server thread/INFO]: [Skript] Loaded 153521 aliases in 10511ms
+[15:14:45] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[15:14:45] [Server thread/INFO]: [WeaponMechanics] Enabling WeaponMechanics v1.14.2
+[15:14:46] [Server thread/INFO]: [WeaponMechanics] Buy WeaponMechanicsCosmetics to support our development: https://www.spigotmc.org/resources/104539/
+[15:14:47] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[15:14:47] [Server thread/INFO]: Starting GS4 status listener
+[15:14:47] [Server thread/INFO]: Thread Query Listener started
+[15:14:47] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[15:14:47] [Server thread/INFO]: Running delayed init tasks
+[15:14:47] [Craft Scheduler Thread - 6 - nAntiBot/INFO]: [nAntiBot] Connecting to the remote server antibot.nickuc.com...
+[15:14:47] [Craft Scheduler Thread - 19 - Vault/INFO]: [Vault] Checking for Updates ... 
+[15:14:47] [Craft Scheduler Thread - 20 - ReviveMe/INFO]: [ReviveMe] There is a new update available.
+[15:14:47] [Craft Scheduler Thread - 20 - ReviveMe/INFO]: [ReviveMe] hhttps://www.spigotmc.org/resources/authors/favioflashmc.522695/
+[15:14:47] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.19.1/2 (760)
+[15:14:47] [Craft Scheduler Thread - 8 - SkinsRestorer/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mFailed to get release info from api.github.com. 
+ If this message is repeated a lot, please see http://skinsrestorer.net/firewall[0;39m
+[15:14:47] [Craft Scheduler Thread - 18 - WeaponMechanics/WARN]: [WeaponMechanics] Plugin WeaponMechanics v1.14.2 generated an exception while executing task 78
+java.lang.InternalError: java.io.IOException: Server returned HTTP response code: 403 for URL: https://api.github.com/repos/WeaponMechanics/MechanicsMain/releases/latest
+	at me.deecaad.weaponmechanics.lib.auto.AutoMechanicsDownload.<init>(AutoMechanicsDownload.java:86) ~[WeaponMechanics-1.14.2.jar:?]
+	at me.deecaad.weaponmechanics.WeaponMechanics.lambda$writeFiles$1(WeaponMechanics.java:251) ~[WeaponMechanics-1.14.2.jar:?]
+	at me.deecaad.core.file.TaskChain$Task$1.run(TaskChain.java:29) ~[MechanicsCore-1.8.1.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patina-1.19.2.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL: https://api.github.com/repos/WeaponMechanics/MechanicsMain/releases/latest
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1997) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224) ~[?:?]
+	at me.deecaad.weaponmechanics.lib.auto.AutoMechanicsDownload.<init>(AutoMechanicsDownload.java:44) ~[WeaponMechanics-1.14.2.jar:?]
+	... 8 more
+[15:14:47] [Craft Scheduler Thread - 19 - Vault/INFO]: [Vault] No new version available
+[15:14:47] [Server thread/INFO]: [BigDoors] Checking for updates...
+[15:14:47] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[15:14:48] [Server thread/INFO]: [Skript] Loading variables...
+[15:14:48] [Server thread/INFO]: [Skript] Loaded 10 variables in 0.0 seconds
+[15:14:48] [Thread-23/INFO]: [BigDoors] No new updates available.
+[15:14:48] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[15:14:48] [Server thread/INFO]: [Skript] Loaded 1 script with a total of 0 triggers and 5 commands in 0.32 seconds
+[15:14:48] [Server thread/INFO]: [Skript] Finished loading.
+[15:14:50] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[15:14:50] [Server thread/INFO]: Animotion Loading up all animotions...
+[15:14:50] [Server thread/INFO]: Animotion All animotions have been loaded.
+[15:14:50] [Server thread/INFO]: [Citizens] Loaded 5 NPCs.
+[15:14:50] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 4.5.1, you're on: 4.5.0-22w44a-SNAPSHOT
+[15:14:50] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[15:14:50] [Server thread/INFO]: Done (89.901s)! For help, type "help"
+[15:14:50] [Server thread/INFO]: Timings Reset
+[15:14:51] [Server thread/INFO]: [OpenRP] World world ignores Time. Skipping. . .
+[15:14:52] [Craft Scheduler Thread - 13 - Corpses/INFO]: Corpses | Checking for updates...
+[15:14:52] [Craft Scheduler Thread - 9 - PlayerNPC/INFO]: PlayerNPC | Checking for updates...
+[15:16:01] [User Authenticator #0/INFO]: UUID of player qShip is 5210a989-af31-3423-b0fa-5a492620269e
+[15:16:01] [Server thread/INFO]: qShip[/77.40.61.39:5610] logged in with entity id 283 at ([world]-355.0, 31.0, 754.0)
+[15:16:02] [Craft Scheduler Thread - 23 - WeaponMechanics/WARN]: [WeaponMechanics] Plugin WeaponMechanics v1.14.2 generated an exception while executing task 496
+java.lang.InternalError: java.io.IOException: Server returned HTTP response code: 403 for URL: https://api.github.com/repos/WeaponMechanics/MechanicsMain/releases/latest
+	at me.deecaad.weaponmechanics.lib.auto.AutoMechanicsDownload.<init>(AutoMechanicsDownload.java:86) ~[WeaponMechanics-1.14.2.jar:?]
+	at me.deecaad.weaponmechanics.listeners.ResourcePackListener.lambda$onJoin$0(ResourcePackListener.java:35) ~[WeaponMechanics-1.14.2.jar:?]
+	at me.deecaad.core.file.TaskChain$Task$1.run(TaskChain.java:29) ~[MechanicsCore-1.8.1.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patina-1.19.2.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL: https://api.github.com/repos/WeaponMechanics/MechanicsMain/releases/latest
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1997) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224) ~[?:?]
+	at me.deecaad.weaponmechanics.lib.auto.AutoMechanicsDownload.<init>(AutoMechanicsDownload.java:44) ~[WeaponMechanics-1.14.2.jar:?]
+	... 8 more
+[15:16:17] [Craft Scheduler Thread - 14 - nLogin/INFO]: [nLogin] The user qShip has successfully logged in.
+[15:16:19] [Server thread/INFO]: qShip issued server command: /char
+[15:16:31] [Server thread/INFO]: qShip issued server command: /character set Фамилия Снимаешь
+[15:18:07] [User Authenticator #1/INFO]: UUID of player ma37443645 is 14d7f7b6-4607-3287-a70b-8e59ba2802d3
+[15:18:07] [Server thread/INFO]: [LiteEco] User 14d7f7b6-4607-3287-a70b-8e59ba2802d3 was inserted into table lite_eco.
+[15:18:07] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] Custom worlds heights are NOT SUPPORTED for 1.16 players and older and may lead to errors!
+[15:18:07] [Netty Epoll Server IO #1/WARN]: [ViaBackwards] You have min/max set to -64/256
+[15:18:07] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to qTab v0.1
+[15:18:07] [Server thread/ERROR]: Suspected Plugins: 
+[15:18:07] [Server thread/ERROR]: 	qTab{enabled,ver=0.1,path=plugins/qTab-1.0-SNAPSHOT.jar}
+[15:18:07] [Server thread/ERROR]: Exception details below: 
+java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because "suname" is null
+	at ru.qship.Join.onjoin(Join.java:78) ~[qTab-1.0-SNAPSHOT.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor109.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:76) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:git-Paper-"f381a0a"]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:684) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.players.PlayerList.postChunkLoadJoin(PlayerList.java:372) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.players.PlayerList.lambda$placeNewPlayer$0(PlayerList.java:309) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:128) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1330) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1323) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:116) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1459) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1177) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.MinecraftServer.lambda$spin$1(MinecraftServer.java:308) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[15:18:07] [Server thread/INFO]: ma37443645[/31.162.246.148:63946] logged in with entity id 361 at ([world]-355.0, 31.0, 754.0)
+[15:18:08] [Craft Scheduler Thread - 17 - WeaponMechanics/WARN]: [WeaponMechanics] Plugin WeaponMechanics v1.14.2 generated an exception while executing task 1024
+java.lang.InternalError: java.io.IOException: Server returned HTTP response code: 403 for URL: https://api.github.com/repos/WeaponMechanics/MechanicsMain/releases/latest
+	at me.deecaad.weaponmechanics.lib.auto.AutoMechanicsDownload.<init>(AutoMechanicsDownload.java:86) ~[WeaponMechanics-1.14.2.jar:?]
+	at me.deecaad.weaponmechanics.listeners.ResourcePackListener.lambda$onJoin$0(ResourcePackListener.java:35) ~[WeaponMechanics-1.14.2.jar:?]
+	at me.deecaad.core.file.TaskChain$Task$1.run(TaskChain.java:29) ~[MechanicsCore-1.8.1.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patina-1.19.2.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL: https://api.github.com/repos/WeaponMechanics/MechanicsMain/releases/latest
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1997) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224) ~[?:?]
+	at me.deecaad.weaponmechanics.lib.auto.AutoMechanicsDownload.<init>(AutoMechanicsDownload.java:44) ~[WeaponMechanics-1.14.2.jar:?]
+	... 8 more
+[15:18:21] [Craft Scheduler Thread - 24 - nLogin/INFO]: [nLogin] The user ma37443645 has successfully registered.
+[15:18:55] [Server thread/INFO]: qShip issued server command: /ooc
+[15:19:04] [User Authenticator #1/INFO]: UUID of player Deff11_1 is 905d47f9-a960-394a-a8a0-a342cf4a6d19
+[15:19:04] [Server thread/INFO]: [LiteEco] User 905d47f9-a960-394a-a8a0-a342cf4a6d19 was inserted into table lite_eco.
+[15:19:04] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to qTab v0.1
+[15:19:04] [Server thread/ERROR]: Suspected Plugins: 
+[15:19:04] [Server thread/ERROR]: 	qTab{enabled,ver=0.1,path=plugins/qTab-1.0-SNAPSHOT.jar}
+[15:19:04] [Server thread/ERROR]: Exception details below: 
+java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because "suname" is null
+	at ru.qship.Join.onjoin(Join.java:78) ~[qTab-1.0-SNAPSHOT.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor109.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:76) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:git-Paper-"f381a0a"]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:684) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.players.PlayerList.postChunkLoadJoin(PlayerList.java:372) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.players.PlayerList.lambda$placeNewPlayer$0(PlayerList.java:309) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:128) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1330) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1323) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:116) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1459) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1177) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.MinecraftServer.lambda$spin$1(MinecraftServer.java:308) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[15:19:04] [Server thread/INFO]: Deff11_1[/178.121.37.213:46519] logged in with entity id 364 at ([world]-355.0, 31.0, 754.0)
+[15:19:04] [Craft Scheduler Thread - 14 - WeaponMechanics/WARN]: [WeaponMechanics] Plugin WeaponMechanics v1.14.2 generated an exception while executing task 1437
+java.lang.InternalError: java.io.IOException: Server returned HTTP response code: 403 for URL: https://api.github.com/repos/WeaponMechanics/MechanicsMain/releases/latest
+	at me.deecaad.weaponmechanics.lib.auto.AutoMechanicsDownload.<init>(AutoMechanicsDownload.java:86) ~[WeaponMechanics-1.14.2.jar:?]
+	at me.deecaad.weaponmechanics.listeners.ResourcePackListener.lambda$onJoin$0(ResourcePackListener.java:35) ~[WeaponMechanics-1.14.2.jar:?]
+	at me.deecaad.core.file.TaskChain$Task$1.run(TaskChain.java:29) ~[MechanicsCore-1.8.1.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patina-1.19.2.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL: https://api.github.com/repos/WeaponMechanics/MechanicsMain/releases/latest
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1997) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224) ~[?:?]
+	at me.deecaad.weaponmechanics.lib.auto.AutoMechanicsDownload.<init>(AutoMechanicsDownload.java:44) ~[WeaponMechanics-1.14.2.jar:?]
+	... 8 more
+[15:19:05] [Server thread/INFO]: ma37443645 issued server command: /ooc 1
+[15:19:08] [Server thread/INFO]: ma37443645 issued server command: /ooc
+[15:19:10] [Server thread/INFO]: [OpenRP] ma37443645 in In Character Chat: 1
+[15:19:13] [Server thread/INFO]: ma37443645 issued server command: /ooc
+[15:19:20] [Server thread/INFO]: ma37443645 issued server command: /rp
+[15:19:21] [Server thread/INFO]: [OpenRP] qShip in In Character Chat: серв гавно
+[15:19:26] [Server thread/INFO]: ma37443645 issued server command: /ooc
+[15:19:28] [Server thread/INFO]: [OpenRP] ma37443645 in In Character Chat: согл
+[15:19:38] [Craft Scheduler Thread - 7 - nLogin/INFO]: [nLogin] The user Deff11_1 has successfully registered.
+[15:19:48] [Server thread/INFO]: qShip issued server command: /gamemode spectator
+[15:19:48] [Server thread/INFO]: [qShip: Set own game mode to Spectator Mode]
+[15:20:11] [Server thread/INFO]: qShip issued server command: /gamemode creative
+[15:20:11] [Server thread/INFO]: [qShip: Set own game mode to Creative Mode]
+[15:20:15] [Server thread/INFO]: qShip issued server command: /gamemode survival
+[15:20:15] [Server thread/INFO]: [qShip: Set own game mode to Survival Mode]
+[15:20:25] [Server thread/INFO]: [OpenRP] Deff11_1 in In Character Chat: F[F[FF[
+[15:20:26] [Server thread/INFO]: [OpenRP] Deff11_1 in In Character Chat: F[F[FF[
+[15:20:26] [Server thread/INFO]: [OpenRP] Deff11_1 in In Character Chat: F[F[FF[
+[15:20:29] [Server thread/INFO]: Deff11_1 issued server command: /spawn
+[15:20:47] [Server thread/INFO]: [OpenRP] Deff11_1 in In Character Chat: ���������
+[15:20:48] [Server thread/INFO]: [OpenRP] Deff11_1 in In Character Chat: ���������
+[15:20:48] [Server thread/INFO]: [OpenRP] Deff11_1 in In Character Chat: ���������
+[15:20:48] [Server thread/INFO]: [OpenRP] Deff11_1 in In Character Chat: ���������
+[15:20:49] [Server thread/INFO]: [OpenRP] Deff11_1 in In Character Chat: ���������
+[15:20:49] [Server thread/INFO]: [OpenRP] Deff11_1 in In Character Chat: ���������
+[15:20:49] [Server thread/INFO]: [OpenRP] Deff11_1 in In Character Chat: ���������
+[15:20:49] [Server thread/INFO]: [OpenRP] Deff11_1 in In Character Chat: ���������
+[15:20:49] [Server thread/INFO]: [OpenRP] Deff11_1 in In Character Chat: ���������
+[15:20:50] [Server thread/INFO]: [OpenRP] Deff11_1 in In Character Chat: ���������
+[15:20:50] [Server thread/INFO]: [OpenRP] Deff11_1 in In Character Chat: ���������
+[15:20:50] [Server thread/INFO]: [OpenRP] Deff11_1 in In Character Chat: ���������
+[15:20:50] [Server thread/INFO]: [OpenRP] Deff11_1 in In Character Chat: ���������
+[15:20:50] [Server thread/INFO]: [OpenRP] Deff11_1 in In Character Chat: ���������
+[15:20:50] [Server thread/INFO]: Deff11_1 lost connection: Kicked for spamming
+[15:21:24] [Server thread/INFO]: qShip issued server command: /setblock ~ ~ ~ minecraft:stone_bricks
+[15:21:24] [Server thread/INFO]: [qShip: Changed the block at -390, 71, 684]
+[15:21:29] [Server thread/INFO]: qShip issued server command: /setblock ~ ~ ~ minecraft:stone_brick_stairs
+[15:21:29] [Server thread/INFO]: [qShip: Changed the block at -385, 71, 687]
+[15:21:34] [Server thread/INFO]: qShip issued server command: /gamemode creative
+[15:21:34] [Server thread/INFO]: [qShip: Set own game mode to Creative Mode]
+[15:21:41] [User Authenticator #2/INFO]: UUID of player DreamTeamcheck is ae505540-410c-3826-8405-026c9eb6f016
+[15:21:41] [Server thread/INFO]: [LiteEco] User ae505540-410c-3826-8405-026c9eb6f016 was inserted into table lite_eco.
+[15:21:41] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to qTab v0.1
+[15:21:41] [Server thread/ERROR]: Suspected Plugins: 
+[15:21:41] [Server thread/ERROR]: 	qTab{enabled,ver=0.1,path=plugins/qTab-1.0-SNAPSHOT.jar}
+[15:21:41] [Server thread/ERROR]: Exception details below: 
+java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because "suname" is null
+	at ru.qship.Join.onjoin(Join.java:78) ~[qTab-1.0-SNAPSHOT.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor109.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:76) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:git-Paper-"f381a0a"]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:684) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.players.PlayerList.postChunkLoadJoin(PlayerList.java:372) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.players.PlayerList.lambda$placeNewPlayer$0(PlayerList.java:309) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:128) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1330) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1323) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:116) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1459) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1177) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.MinecraftServer.lambda$spin$1(MinecraftServer.java:308) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[15:21:42] [Server thread/INFO]: DreamTeamcheck[/31.173.82.83:9728] logged in with entity id 371 at ([world]-355.0, 31.0, 754.0)
+[15:21:42] [Craft Scheduler Thread - 13 - WeaponMechanics/WARN]: [WeaponMechanics] Plugin WeaponMechanics v1.14.2 generated an exception while executing task 2362
+java.lang.InternalError: java.io.IOException: Server returned HTTP response code: 403 for URL: https://api.github.com/repos/WeaponMechanics/MechanicsMain/releases/latest
+	at me.deecaad.weaponmechanics.lib.auto.AutoMechanicsDownload.<init>(AutoMechanicsDownload.java:86) ~[WeaponMechanics-1.14.2.jar:?]
+	at me.deecaad.weaponmechanics.listeners.ResourcePackListener.lambda$onJoin$0(ResourcePackListener.java:35) ~[WeaponMechanics-1.14.2.jar:?]
+	at me.deecaad.core.file.TaskChain$Task$1.run(TaskChain.java:29) ~[MechanicsCore-1.8.1.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patina-1.19.2.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL: https://api.github.com/repos/WeaponMechanics/MechanicsMain/releases/latest
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1997) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224) ~[?:?]
+	at me.deecaad.weaponmechanics.lib.auto.AutoMechanicsDownload.<init>(AutoMechanicsDownload.java:44) ~[WeaponMechanics-1.14.2.jar:?]
+	... 8 more
+[15:22:07] [Server thread/INFO]: qShip issued server command: /gamemode survival
+[15:22:07] [Server thread/INFO]: [qShip: Set own game mode to Survival Mode]
+[15:22:09] [Server thread/INFO]: qShip issued server command: /deop qShip
+[15:22:09] [Server thread/INFO]: [qShip: Made qShip no longer a server operator]
+[15:22:10] [User Authenticator #2/INFO]: UUID of player Gopa12 is 104b2f5c-7579-3024-8d5f-901da8cdb33f
+[15:22:10] [Server thread/INFO]: [LiteEco] User 104b2f5c-7579-3024-8d5f-901da8cdb33f was inserted into table lite_eco.
+[15:22:10] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to qTab v0.1
+[15:22:10] [Server thread/ERROR]: Suspected Plugins: 
+[15:22:10] [Server thread/ERROR]: 	qTab{enabled,ver=0.1,path=plugins/qTab-1.0-SNAPSHOT.jar}
+[15:22:10] [Server thread/ERROR]: Exception details below: 
+java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because "suname" is null
+	at ru.qship.Join.onjoin(Join.java:78) ~[qTab-1.0-SNAPSHOT.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor109.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:76) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:git-Paper-"f381a0a"]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:684) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.players.PlayerList.postChunkLoadJoin(PlayerList.java:372) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.players.PlayerList.lambda$placeNewPlayer$0(PlayerList.java:309) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:128) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1330) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1323) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:116) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1459) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1177) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.MinecraftServer.lambda$spin$1(MinecraftServer.java:308) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[15:22:10] [Server thread/INFO]: Gopa12[/92.55.181.243:52319] logged in with entity id 450 at ([world]-355.0, 31.0, 754.0)
+[15:22:11] [Craft Scheduler Thread - 30 - WeaponMechanics/WARN]: [WeaponMechanics] Plugin WeaponMechanics v1.14.2 generated an exception while executing task 2918
+java.lang.InternalError: java.io.IOException: Server returned HTTP response code: 403 for URL: https://api.github.com/repos/WeaponMechanics/MechanicsMain/releases/latest
+	at me.deecaad.weaponmechanics.lib.auto.AutoMechanicsDownload.<init>(AutoMechanicsDownload.java:86) ~[WeaponMechanics-1.14.2.jar:?]
+	at me.deecaad.weaponmechanics.listeners.ResourcePackListener.lambda$onJoin$0(ResourcePackListener.java:35) ~[WeaponMechanics-1.14.2.jar:?]
+	at me.deecaad.core.file.TaskChain$Task$1.run(TaskChain.java:29) ~[MechanicsCore-1.8.1.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patina-1.19.2.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL: https://api.github.com/repos/WeaponMechanics/MechanicsMain/releases/latest
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1997) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224) ~[?:?]
+	at me.deecaad.weaponmechanics.lib.auto.AutoMechanicsDownload.<init>(AutoMechanicsDownload.java:44) ~[WeaponMechanics-1.14.2.jar:?]
+	... 8 more
+[15:22:23] [Craft Scheduler Thread - 13 - nLogin/INFO]: [nLogin] The user DreamTeamcheck has successfully registered.
+[15:22:39] [Craft Scheduler Thread - 30 - nLogin/INFO]: [nLogin] The user Gopa12 has successfully registered.
+[15:22:54] [Server thread/INFO]: qShip issued server command: /char
+[15:23:04] [Server thread/INFO]: [OpenRP] Gopa12 in In Character Chat: всем ку
+[15:23:07] [Server thread/INFO]: qShip issued server command: /rp
+[15:23:08] [Server thread/INFO]: [OpenRP] qShip in In Character Chat: ку
+[15:23:19] [Server thread/INFO]: [OpenRP] Gopa12 in In Character Chat: ты главный
+[15:23:20] [Server thread/INFO]: [OpenRP] qShip in In Character Chat: че у тебя со скином?
+[15:23:22] [Server thread/INFO]: [OpenRP] qShip in In Character Chat: нет
+[15:23:24] [Server thread/INFO]: [OpenRP] Gopa12 in In Character Chat: хз
+[15:23:56] [Server thread/INFO]: [OpenRP] Gopa12 in In Character Chat: ты с гм
+[15:24:04] [Server thread/INFO]: Gopa12 issued server command: /gamemode 1
+[15:24:09] [Server thread/INFO]: Gopa12 issued server command: /donate
+[15:26:07] [Server thread/INFO]: Gopa12 issued server command: /3414fsafsg54ewdsf
+[15:26:11] [Server thread/INFO]: DreamTeamcheck lost connection: Disconnected
+[15:26:19] [Server thread/INFO]: ma37443645 lost connection: Disconnected
+[15:26:52] [User Authenticator #3/INFO]: UUID of player MrDomer is 36080521-8ef9-3028-a5bf-99e4c959d597
+[15:26:52] [Server thread/INFO]: [LiteEco] User 36080521-8ef9-3028-a5bf-99e4c959d597 was inserted into table lite_eco.
+[15:26:52] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to qTab v0.1
+[15:26:52] [Server thread/ERROR]: Suspected Plugins: 
+[15:26:52] [Server thread/ERROR]: 	qTab{enabled,ver=0.1,path=plugins/qTab-1.0-SNAPSHOT.jar}
+[15:26:52] [Server thread/ERROR]: Exception details below: 
+java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because "suname" is null
+	at ru.qship.Join.onjoin(Join.java:78) ~[qTab-1.0-SNAPSHOT.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor109.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:76) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:git-Paper-"f381a0a"]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:684) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.players.PlayerList.postChunkLoadJoin(PlayerList.java:372) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.players.PlayerList.lambda$placeNewPlayer$0(PlayerList.java:309) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:128) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1330) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1323) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:116) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1459) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1177) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.MinecraftServer.lambda$spin$1(MinecraftServer.java:308) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[15:26:52] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[15:26:52] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FML
+[15:26:52] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in incoming REGISTER: FORGE
+[15:26:52] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to Corpses v2022.10
+[15:26:52] [Server thread/ERROR]: Suspected Plugins: 
+[15:26:52] [Server thread/ERROR]: 	Corpses{enabled,ver=2022.10,path=plugins/Corpses (1).jar}
+[15:26:52] [Server thread/ERROR]: 	PlayerNPC{enabled,ver=2022.8,path=plugins/PlayerNPC.jar}
+[15:26:52] [Server thread/ERROR]: Exception details below: 
+java.lang.IllegalArgumentException: Failed to set NPC skin. Player must be online.
+	at org.apache.commons.lang.Validate.isTrue(Validate.java:136) ~[commons-lang-2.6.jar:2.6]
+	at dev.sergiferry.playernpc.api.NPC.setSkin(NPC.java:276) ~[PlayerNPC.jar:?]
+	at dev.sergiferry.corpses.corpse.Corpse.createPlayer(Corpse.java:62) ~[Corpses (1).jar:?]
+	at dev.sergiferry.corpses.player.PlayerListener.lambda$onJoin$0(PlayerListener.java:33) ~[Corpses (1).jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1064) ~[?:?]
+	at dev.sergiferry.corpses.player.PlayerListener.onJoin(PlayerListener.java:33) ~[Corpses (1).jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor196.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:76) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:git-Paper-"f381a0a"]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:684) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.players.PlayerList.postChunkLoadJoin(PlayerList.java:372) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.players.PlayerList.lambda$placeNewPlayer$0(PlayerList.java:309) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:128) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1330) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1323) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:116) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1459) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1177) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.MinecraftServer.lambda$spin$1(MinecraftServer.java:308) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[15:26:52] [Server thread/INFO]: MrDomer[/109.252.24.213:1977] logged in with entity id 1067 at ([world]-355.0, 31.0, 754.0)
+[15:26:52] [Craft Scheduler Thread - 36 - WeaponMechanics/WARN]: [WeaponMechanics] Plugin WeaponMechanics v1.14.2 generated an exception while executing task 5246
+java.lang.InternalError: java.io.IOException: Server returned HTTP response code: 403 for URL: https://api.github.com/repos/WeaponMechanics/MechanicsMain/releases/latest
+	at me.deecaad.weaponmechanics.lib.auto.AutoMechanicsDownload.<init>(AutoMechanicsDownload.java:86) ~[WeaponMechanics-1.14.2.jar:?]
+	at me.deecaad.weaponmechanics.listeners.ResourcePackListener.lambda$onJoin$0(ResourcePackListener.java:35) ~[WeaponMechanics-1.14.2.jar:?]
+	at me.deecaad.core.file.TaskChain$Task$1.run(TaskChain.java:29) ~[MechanicsCore-1.8.1.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patina-1.19.2.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL: https://api.github.com/repos/WeaponMechanics/MechanicsMain/releases/latest
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1997) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224) ~[?:?]
+	at me.deecaad.weaponmechanics.lib.auto.AutoMechanicsDownload.<init>(AutoMechanicsDownload.java:44) ~[WeaponMechanics-1.14.2.jar:?]
+	... 8 more
+[15:27:18] [Server thread/INFO]: [OpenRP] Gopa12 in In Character Chat: зачем ты меня бьешь
+[15:27:22] [Server thread/INFO]: [OpenRP] Gopa12 in In Character Chat: я твой 1 игрок
+[15:27:53] [Server thread/INFO]: MrDomer lost connection: Timed out
+[15:27:53] [Server thread/INFO]: [OpenRP] qShip in In Character Chat: пошел нахуй
+[15:27:58] [Server thread/INFO]: [OpenRP] Gopa12 in In Character Chat: ?
+[15:27:59] [Server thread/INFO]: qShip issued server command: /char
+[15:28:04] [Server thread/INFO]: [OpenRP] Gopa12 in In Character Chat: ты че безмамгый
+[15:28:18] [Server thread/INFO]: Made qShip a server operator
+[15:28:24] [Server thread/INFO]: qShip issued server command: /tpid 4 0
+[15:28:24] [Server thread/INFO]: Teleported Gopa12 to qShip
+[15:28:26] [Server thread/INFO]: qShip issued server command: /tpid 4 0
+[15:28:26] [Server thread/INFO]: Teleported Gopa12 to qShip
+[15:28:39] [Server thread/INFO]: [OpenRP] Gopa12 in In Character Chat: ! зачем уебище
+[15:28:57] [User Authenticator #4/INFO]: UUID of player vova4445 is 434a5438-6cfc-39b0-a529-d109d37202d5
+[15:28:57] [Server thread/INFO]: [LiteEco] User 434a5438-6cfc-39b0-a529-d109d37202d5 was inserted into table lite_eco.
+[15:28:57] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to qTab v0.1
+[15:28:57] [Server thread/ERROR]: Suspected Plugins: 
+[15:28:57] [Server thread/ERROR]: 	qTab{enabled,ver=0.1,path=plugins/qTab-1.0-SNAPSHOT.jar}
+[15:28:57] [Server thread/ERROR]: Exception details below: 
+java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because "suname" is null
+	at ru.qship.Join.onjoin(Join.java:78) ~[qTab-1.0-SNAPSHOT.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor109.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:76) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:git-Paper-"f381a0a"]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:684) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.players.PlayerList.postChunkLoadJoin(PlayerList.java:372) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.players.PlayerList.lambda$placeNewPlayer$0(PlayerList.java:309) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:128) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1330) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1323) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:116) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1459) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1177) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.MinecraftServer.lambda$spin$1(MinecraftServer.java:308) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[15:28:57] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to Corpses v2022.10
+[15:28:57] [Server thread/ERROR]: Suspected Plugins: 
+[15:28:57] [Server thread/ERROR]: 	Corpses{enabled,ver=2022.10,path=plugins/Corpses (1).jar}
+[15:28:57] [Server thread/ERROR]: 	PlayerNPC{enabled,ver=2022.8,path=plugins/PlayerNPC.jar}
+[15:28:57] [Server thread/ERROR]: Exception details below: 
+java.lang.IllegalArgumentException: Failed to set NPC skin. Player must be online.
+	at org.apache.commons.lang.Validate.isTrue(Validate.java:136) ~[commons-lang-2.6.jar:2.6]
+	at dev.sergiferry.playernpc.api.NPC.setSkin(NPC.java:276) ~[PlayerNPC.jar:?]
+	at dev.sergiferry.corpses.corpse.Corpse.createPlayer(Corpse.java:62) ~[Corpses (1).jar:?]
+	at dev.sergiferry.corpses.player.PlayerListener.lambda$onJoin$0(PlayerListener.java:33) ~[Corpses (1).jar:?]
+	at java.util.HashMap$Values.forEach(HashMap.java:1064) ~[?:?]
+	at dev.sergiferry.corpses.player.PlayerListener.onJoin(PlayerListener.java:33) ~[Corpses (1).jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor196.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:76) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:git-Paper-"f381a0a"]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:684) ~[patina-api-1.19.2-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.players.PlayerList.postChunkLoadJoin(PlayerList.java:372) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.players.PlayerList.lambda$placeNewPlayer$0(PlayerList.java:309) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:128) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1330) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1323) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:116) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1459) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1177) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at net.minecraft.server.MinecraftServer.lambda$spin$1(MinecraftServer.java:308) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[15:28:57] [Server thread/INFO]: vova4445[/89.178.66.168:11659] logged in with entity id 1074 at ([world]-355.0, 31.0, 754.0)
+[15:28:57] [Craft Scheduler Thread - 42 - WeaponMechanics/WARN]: [WeaponMechanics] Plugin WeaponMechanics v1.14.2 generated an exception while executing task 6227
+java.lang.InternalError: java.io.IOException: Server returned HTTP response code: 403 for URL: https://api.github.com/repos/WeaponMechanics/MechanicsMain/releases/latest
+	at me.deecaad.weaponmechanics.lib.auto.AutoMechanicsDownload.<init>(AutoMechanicsDownload.java:86) ~[WeaponMechanics-1.14.2.jar:?]
+	at me.deecaad.weaponmechanics.listeners.ResourcePackListener.lambda$onJoin$0(ResourcePackListener.java:35) ~[WeaponMechanics-1.14.2.jar:?]
+	at me.deecaad.core.file.TaskChain$Task$1.run(TaskChain.java:29) ~[MechanicsCore-1.8.1.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[patina-1.19.2.jar:git-Paper-"f381a0a"]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patina-1.19.2.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL: https://api.github.com/repos/WeaponMechanics/MechanicsMain/releases/latest
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1997) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224) ~[?:?]
+	at me.deecaad.weaponmechanics.lib.auto.AutoMechanicsDownload.<init>(AutoMechanicsDownload.java:44) ~[WeaponMechanics-1.14.2.jar:?]
+	... 8 more
+[15:29:01] [Server thread/INFO]: Gopa12 lost connection: Kicked for exceeding packet rate limit
+[15:29:05] [Server thread/INFO]: qShip issued server command: /gamemode rce
+[15:29:06] [Server thread/INFO]: qShip issued server command: /gamemode creative
+[15:29:06] [Server thread/INFO]: [qShip: Set own game mode to Creative Mode]
+[15:29:12] [Craft Scheduler Thread - 35 - nLogin/INFO]: [nLogin] The user vova4445 has successfully registered.
+[15:29:22] [Server thread/INFO]: qShip issued server command: /char
+[15:29:30] [Server thread/INFO]: qShip issued server command: /character set Фамилия Нет фамилии
+[15:29:46] [Server thread/INFO]: vova4445 issued server command: /roll
+[15:29:46] [Server thread/INFO]: [OpenRP] vova4445 rolled 98 / 100
+[15:29:50] [Server thread/INFO]: vova4445 issued server command: /roll
+[15:29:50] [Server thread/INFO]: [OpenRP] vova4445 rolled 12 / 100
+[15:29:51] [Server thread/INFO]: vova4445 issued server command: /roll
+[15:29:51] [Server thread/INFO]: [OpenRP] vova4445 rolled 44 / 100
+[15:30:47] [Server thread/INFO]: vova4445 issued server command: /3414fsafsg54ewdsf
+[15:31:29] [Craft Scheduler Thread - 35 - SkinsRestorer/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mFailed to get release info from api.github.com. 
+ If this message is repeated a lot, please see http://skinsrestorer.net/firewall[0;39m
+[15:31:41] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_19_R1! Trying to find NMS support
+[15:31:41] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_19_R1' loaded!
+[15:31:41] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[15:31:42] [Thread-25/WARN]: [NBTAPI] [NBTAPI] The NBT-API located at 'package it.ivirus.handcuff.libs.changeme.nbtapi' seems to be outdated!
+[15:31:42] [Thread-25/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.10.0' Newest Version: 2.11.1'
+[15:31:42] [Thread-25/WARN]: [NBTAPI] [NBTAPI] Please update the NBTAPI or the plugin that contains the api(nag the mod author when the newest release has an old version, not the NBTAPI dev)!
+[15:32:24] [Server thread/INFO]: qShip issued server command: /weather rain
+[15:32:24] [Server thread/INFO]: [qShip: Set the weather to rain]
+[15:33:09] [Server thread/INFO]: vova4445 lost connection: Disconnected
+[15:35:18] [Server thread/INFO]: qShip issued server command: /tpid
+[15:35:22] [Server thread/INFO]: qShip issued server command: /gamemode spectator
+[15:35:22] [Server thread/INFO]: [qShip: Set own game mode to Spectator Mode]
+[15:35:23] [Server thread/INFO]: qShip issued server command: /gamemode creative
+[15:35:23] [Server thread/INFO]: [qShip: Set own game mode to Creative Mode]
+[15:35:27] [Server thread/INFO]: qShip issued server command: /gamemode spectator
+[15:35:27] [Server thread/INFO]: [qShip: Set own game mode to Spectator Mode]
+[15:35:28] [Server thread/INFO]: qShip issued server command: /gamemode creative
+[15:35:28] [Server thread/INFO]: [qShip: Set own game mode to Creative Mode]
+[15:35:32] [Server thread/INFO]: qShip issued server command: /hd list
+[15:35:49] [Server thread/INFO]: qShip issued server command: /hd set hornybank4 &e[ПКМ] &fБанкомат
+[15:35:55] [Server thread/INFO]: qShip issued server command: /hd edit
+[15:35:58] [Server thread/INFO]: qShip issued server command: /hd edit horny3
+[15:36:07] [Server thread/INFO]: qShip issued server command: /hd setLine hornybank4 1 &e[ПКМ] &fБанкомат
+[15:36:18] [Server thread/INFO]: qShip issued server command: /hd movehere hornybank4
+[15:36:19] [Server thread/INFO]: qShip issued server command: /hd movehere hornybank4
+[15:36:23] [Server thread/INFO]: qShip issued server command: /hd movehere hornybank4
+[15:36:25] [Server thread/INFO]: qShip issued server command: /hd movehere hornybank4
+[15:36:26] [Server thread/INFO]: qShip issued server command: /hd movehere hornybank4
+[15:36:27] [Server thread/INFO]: qShip issued server command: /hd movehere hornybank4
+[15:36:28] [Server thread/INFO]: qShip issued server command: /hd movehere hornybank4
+[15:36:31] [Server thread/INFO]: qShip issued server command: /hd movehere hornybank4
+[15:36:33] [Server thread/INFO]: qShip issued server command: /hd movehere hornybank4
+[15:36:36] [Server thread/INFO]: qShip issued server command: /gamemode spectator
+[15:36:36] [Server thread/INFO]: [qShip: Set own game mode to Spectator Mode]
+[15:36:49] [Server thread/INFO]: qShip issued server command: /hd setLine inbank2 1 &e[ПКМ] &fБанкомат
+[15:36:54] [Server thread/INFO]: qShip issued server command: /hd setLine inbank1 1 &e[ПКМ] &fБанкомат
+[15:36:55] [Server thread/INFO]: qShip issued server command: /gamemode creative
+[15:36:55] [Server thread/INFO]: [qShip: Set own game mode to Creative Mode]
+[15:36:58] [Server thread/INFO]: qShip issued server command: /gamemode spectator
+[15:36:58] [Server thread/INFO]: [qShip: Set own game mode to Spectator Mode]
+[15:36:59] [Server thread/INFO]: qShip issued server command: /gamemode creative
+[15:36:59] [Server thread/INFO]: [qShip: Set own game mode to Creative Mode]
+[15:37:50] [Server thread/INFO]: qShip lost connection: Disconnected
+[16:14:47] [Craft Scheduler Thread - 92 - Core/INFO]: [Core] [Core] Checking for 1 updates.
+[16:14:47] [Craft Scheduler Thread - 92 - Core/INFO]: [Core] Checking update for Core v0.5.7
+[16:26:02] [Server thread/INFO]: [Not Secure] [Server] This server will be shut down after 1 minutes of inactivity
+[16:26:32] [Server thread/INFO]: [Not Secure] [Server] This server will be shut down after 30 seconds of inactivity
+[16:27:02] [Server thread/INFO]: [Not Secure] [Server] This server has been stopped for inactivity.
+[16:27:02] [Server thread/INFO]: Stopping the server
+[16:27:02] [Server thread/INFO]: Stopping server
+[16:27:02] [Server thread/INFO]: [WeaponMechanics] Disabling WeaponMechanics v1.14.2
+[16:27:03] [Server thread/INFO]: [Skript] Disabling Skript v2.6.3
+[16:27:03] [Server thread/INFO]: [MechanicsCore] Disabling MechanicsCore v1.8.1
+[16:27:03] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v21.3
+[16:27:03] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[16:27:04] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v21.3
+[16:27:04] [Server thread/INFO]: [ReviveMe] Disabling ReviveMe v2.6.5
+[16:27:04] [Server thread/INFO]: [CitizenHats] Disabling CitizenHats v1.35
+[16:27:04] [Server thread/INFO]: [CitizenHats] Config saved successfully!
+[16:27:04] [Server thread/INFO]: [GSit] Disabling GSit v1.2.8
+[16:27:04] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
+[16:27:04] [Server thread/INFO]: [BigDoors] Disabling BigDoors vAlpha 0.1.8.40 (b1110)
+[16:27:04] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.30-SNAPSHOT (build 2756)
+[16:27:04] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.8-beta-01+cbb2ba7
+[16:27:04] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[16:27:04] [Server thread/INFO]: [qBank] Disabling qBank v0.1
+[16:27:04] [Server thread/INFO]: [Trey's Command Blocker] Disabling CommandBlocker v2.1.2
+[16:27:04] [Server thread/INFO]: [CustomF3] Disabling CustomF3 v0.1
+[16:27:04] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.12+6240-87f4ae1
+[16:27:05] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[16:27:05] [Server thread/INFO]: [nLogin] Disabling nLogin v10.1.8
+[16:27:05] [Server thread/INFO]: [nLogin] Could not install: update was not confirmed by the user.
+[16:27:05] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.01s)
+[16:27:05] [Server thread/INFO]: [nLogin] 
+[16:27:05] [Server thread/INFO]: [nLogin] Shutting down nLogin V 10.1.8...
+[16:27:05] [Server thread/INFO]: [nLogin] 
+[16:27:05] [Server thread/INFO]: [nLogin] nLogin was unloaded in 58ms.
+[16:27:05] [Server thread/INFO]: [qFight] Disabling qFight v0.1
+[16:27:05] [Server thread/INFO]: [LiteEco] Disabling LiteEco v1.1.4-SNAPSHOT
+[16:27:05] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion liteeco
+[16:27:05] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin LiteEco was disabled.
+[16:27:05] [Server thread/INFO]: [LiteEco] Plugin is disabled
+[16:27:05] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[16:27:05] [Server thread/INFO]: [qBreakPlus] Disabling qBreakPlus v0.1
+[16:27:05] [Server thread/INFO]: [Corpses] Disabling Corpses v2022.10
+[16:27:05] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v14.2.3
+[16:27:05] [Server thread/INFO]: [MessageOverHead] Disabling MessageOverHead v3.03
+[16:27:05] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.0.0-SNAPSHOT-b602
+[16:27:05] [Server thread/INFO]: [PlasmoVoice] Disabling PlasmoVoice v1.0.11
+[16:27:06] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.40
+[16:27:06] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[16:27:06] [Server thread/INFO]: [LuckPerms] Closing storage...
+[16:27:06] [Server thread/INFO]: [LuckPerms] Goodbye!
+[16:27:06] [Server thread/INFO]: [OpenRP] Disabling OpenRP v2.3.5
+[16:27:06] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.5.0-22w44a-SNAPSHOT
+[16:27:06] [Server thread/INFO]: [PlayerNPC] Disabling PlayerNPC v2022.8
+[16:27:06] [Server thread/INFO]: [NBTAPI] Disabling NBTAPI v2.10.0
+[16:27:06] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.5.0-22w44a-SNAPSHOT
+[16:27:06] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[16:27:06] [Server thread/INFO]: [Handcuff] Disabling Handcuff v1.2.2
+[16:27:06] [Server thread/INFO]: [BetterSnowierSnow] Disabling BetterSnowierSnow v1.1
+[16:27:06] [Server thread/INFO]: [TabCompleteFilter] Disabling TabCompleteFilter v1.1.1
+[16:27:06] [Server thread/INFO]: [CustomItems] Disabling CustomItems v0.1
+[16:27:06] [Server thread/INFO]: [PassportPlus] Disabling PassportPlus v0.1
+[16:27:06] [Server thread/INFO]: [Core] Disabling Core v0.5.7
+[16:27:07] [Server thread/INFO]: [Core] ------------------------------
+[16:27:07] [Server thread/INFO]: [Core] [Core] Disabling ServerPacketManager
+[16:27:07] [Server thread/INFO]: [Core] ------------------------------
+[16:27:07] [Server thread/INFO]: [eHideTags] Disabling eHideTags v1.7.3
+[16:27:07] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v3.0.1-SNAPSHOT-b236
+[16:27:07] [Server thread/INFO]: [WurmBarbecue] Disabling WurmBarbecue v2.5.1
+[16:27:07] [Server thread/INFO]: [WurmBarbecue] [STDOUT] [WurmBarbecue] Plugin deactivated!
+[16:27:07] [Server thread/WARN]: Nag author(s): '[Regenwurm97]' of 'WurmBarbecue' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[16:27:07] [Server thread/INFO]: [qLobby] Disabling qLobby v0.1
+[16:27:07] [Server thread/INFO]: [ParadiseRP] Disabling ParadiseRP v1.0.0
+[16:27:07] [Server thread/INFO]: [qTab] Disabling qTab v0.1
+[16:27:07] [Server thread/INFO]: [Animotion] Disabling Animotion v1.0_i_patch3
+[16:27:07] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.2
+[16:27:07] [Server thread/INFO]: [SKLibrary] Disabling SKLibrary v1.15.3
+[16:27:07] [Server thread/INFO]: [qOtsosZaGrivnu] Disabling qOtsosZaGrivnu v0.1
+[16:27:07] [Server thread/INFO]: [Elevators] Disabling Elevators v3.3.4
+[16:27:07] [Server thread/INFO]: [nAntiBot] Disabling nAntiBot v6.0.6
+[16:27:07] [Server thread/INFO]: [nAntiBot] Successful plugin core shutdown (took 0.01s)
+[16:27:07] [Server thread/INFO]: [nAntiBot] Disconnecting from remote server...
+[16:27:09] [Server thread/INFO]: Saving players
+[16:27:09] [Server thread/INFO]: Saving worlds
+[16:27:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:27:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[16:27:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[16:27:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[16:27:11] [Server thread/INFO]: [ChunkHolderManager] Saved 821 chunks in world 'world' in 2s
+[16:27:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:27:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:27:11] [Server thread/INFO]: Saving usercache.json
+[16:27:11] [Server thread/INFO]: Flushing Chunk IO
+[16:27:11] [Server thread/INFO]: Closing Thread Pool
+[16:27:11] [Server thread/INFO]: Closing Server

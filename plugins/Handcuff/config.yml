@@ -1,0 +1,22 @@
+distance-to-handcuff: 2
+cooldown: 0  #seconds
+distance-to-teleport: 1 #blocks
+lang: en_US
+handcuff:
+  item: LEAD
+  customModelData: 251120202
+
+
+mode: WHITELIST   #types: WHITELIST, BLACKLIST
+
+whitelisted-commands:
+  - "command1"
+  - "command2"
+  - "others"
+  - "login"
+  - "register"
+
+blacklisted-commands:
+  - "command1"
+  - "command2"
+  - "others"

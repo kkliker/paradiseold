@@ -1,0 +1,1 @@
+execute as @a[scores={ninjam.requires=1}] at @s run function ninjam:system/softlanding/softlanding

@@ -1,0 +1,307 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 125
+npc:
+  '3':
+    name: bankhorny2
+    uuid: 7c7d05f7-0020-4472-b755-53d164a2b7be
+    traits:
+      age:
+        age: 0
+        locked: true
+      location:
+        bodyYaw: -90.197014
+        world: world
+        x: '-410.6991'
+        y: '69.0'
+        z: '675.4259'
+        yaw: '-90.197'
+        pitch: '0.8539'
+      type: PLAYER
+      owner:
+        uuid: 5210a989-af31-3423-b0fa-5a492620269e
+      spawned: true
+      skintrait:
+        fetchDefaultSkin: true
+        updateSkins: false
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+        commands:
+          '0':
+            command: 3414fsafsg54ewdsf
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+        cooldowns:
+          5210a989-af31-3423-b0fa-5a492620269e:
+            lastUsedId: 0
+          862241e4-b13a-3556-833a-c26112be3549:
+            lastUsedId: 0
+          dd10cf17-302e-3343-a6ab-13bdbc04546c:
+            lastUsedId: 0
+          65f893e1-4937-353d-945a-e457b9acc5eb:
+            lastUsedId: 0
+          c911a65b-7e45-30d5-8731-128e67269ad9:
+            lastUsedId: 0
+          0c11d5d2-5174-3979-88ee-0ff7afc59e8e:
+            lastUsedId: 0
+          22629526-aa29-3c14-8793-39755c312bf2:
+            lastUsedId: 0
+          5fb6044f-2eb8-3c3b-8e02-d06f7e860bcd:
+            lastUsedId: 0
+          cc957035-affe-3e9d-a31a-11a606972ef5:
+            lastUsedId: 0
+          faa05b16-0083-3348-876e-ee7a6704a970:
+            lastUsedId: 0
+          d0b473ea-ab27-3f99-a3c7-e95f8ad15a76:
+            lastUsedId: 0
+          3e1d3a79-50ff-317d-a31f-93ff28919ef7:
+            lastUsedId: 0
+          b138e781-9cf9-32e7-a646-494c984893c2:
+            lastUsedId: 0
+          4ebd736b-1187-38f2-a2ce-5217fc495e5b:
+            lastUsedId: 0
+          b94e752d-9972-3061-9d95-8d63c812333d:
+            lastUsedId: 0
+          1ca70a9b-58cf-3e2b-ac6a-342ec0c9823f:
+            lastUsedId: 0
+          b73e4d3a-e8f0-3fd6-9e73-9d6e97239d37:
+            lastUsedId: 0
+          d2d7f21c-4f9b-3816-8938-4f599acf1c04:
+            lastUsedId: 0
+          d2f4db54-4b54-3a5c-a29b-9ea5b127651f:
+            lastUsedId: 0
+          c9466534-62bf-3a98-b54a-2b4a822ec914:
+            lastUsedId: 0
+          63a13eb8-2057-316c-8929-317fbe2c53e9:
+            lastUsedId: 0
+          8ad0673c-969f-3c7b-bb7d-d96798702291:
+            lastUsedId: 0
+          9af05406-dc21-368d-b76e-925533b15ae9:
+            lastUsedId: 0
+          434a5438-6cfc-39b0-a529-d109d37202d5:
+            lastUsedId: 0
+          104b2f5c-7579-3024-8d5f-901da8cdb33f:
+            lastUsedId: 0
+      gravity:
+        enabled: true
+    traitnames: gravity,type,owner,spawned,age,commandtrait,inventory,mounttrait,location,scoreboardtrait,skintrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '8':
+    name: inbank2
+    uuid: 5fa87a7f-3d0a-4d72-b4e4-1e36e1d3c7c5
+    traits:
+      owner:
+        uuid: 9af05406-dc21-368d-b76e-925533b15ae9
+      age:
+        age: 0
+        locked: true
+      skintrait:
+        fetchDefaultSkin: true
+        updateSkins: false
+      location:
+        bodyYaw: 0.8708801
+        world: world
+        x: '-353.5364'
+        y: '70.0'
+        z: '642.3'
+        yaw: '0.8709'
+        pitch: '-0.3341'
+      spawned: true
+      type: PLAYER
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+        commands:
+          '0':
+            command: 3414fsafsg54ewdsf
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+        cooldowns:
+          9af05406-dc21-368d-b76e-925533b15ae9:
+            lastUsedId: 0
+    traitnames: type,owner,spawned,age,commandtrait,inventory,mounttrait,location,scoreboardtrait,skintrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '7':
+    name: inbank1
+    uuid: e151aaec-1d41-45d8-a93d-59ebf1e3021a
+    traits:
+      owner:
+        uuid: 9af05406-dc21-368d-b76e-925533b15ae9
+      age:
+        age: 0
+        locked: true
+      skintrait:
+        fetchDefaultSkin: true
+        updateSkins: false
+      location:
+        bodyYaw: 1.1449897
+        world: world
+        x: '-349.5904'
+        y: '70.0'
+        z: '642.3012'
+        yaw: '1.145'
+        pitch: '0.8125'
+      spawned: true
+      type: PLAYER
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+        commands:
+          '0':
+            command: 3414fsafsg54ewdsf
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+        cooldowns:
+          3e1d3a79-50ff-317d-a31f-93ff28919ef7:
+            lastUsedId: 0
+          9af05406-dc21-368d-b76e-925533b15ae9:
+            lastUsedId: 0
+          e2ece1e9-3a72-3802-a253-d41930348210:
+            lastUsedId: 0
+    traitnames: type,owner,spawned,age,commandtrait,inventory,mounttrait,location,scoreboardtrait,skintrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '6':
+    name: hornybank3
+    uuid: 47f168b9-b4a9-4abd-af68-2da168dce688
+    traits:
+      owner:
+        uuid: 9af05406-dc21-368d-b76e-925533b15ae9
+      age:
+        age: 0
+        locked: true
+      skintrait:
+        fetchDefaultSkin: true
+        updateSkins: false
+      location:
+        bodyYaw: -91.24691
+        world: world
+        x: '-325.7'
+        y: '69.0'
+        z: '709.5555'
+        yaw: '-91.2469'
+        pitch: '-5.1461'
+      spawned: true
+      type: PLAYER
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+        commands:
+          '0':
+            command: 3414fsafsg54ewdsf
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+        cooldowns:
+          5210a989-af31-3423-b0fa-5a492620269e:
+            lastUsedId: 0
+          862241e4-b13a-3556-833a-c26112be3549:
+            lastUsedId: 0
+          9af05406-dc21-368d-b76e-925533b15ae9:
+            lastUsedId: 0
+          f1e572b4-751b-38f9-bb74-3f927fc646a8:
+            lastUsedId: 0
+          b73e4d3a-e8f0-3fd6-9e73-9d6e97239d37:
+            lastUsedId: 0
+      gravity:
+        enabled: true
+    traitnames: gravity,type,owner,spawned,age,commandtrait,inventory,mounttrait,location,scoreboardtrait,skintrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '5':
+    name: hornybank4
+    uuid: e849cef2-3d87-4980-bcb1-b4e722d08a48
+    traits:
+      owner:
+        uuid: 9af05406-dc21-368d-b76e-925533b15ae9
+      age:
+        age: 0
+        locked: true
+      skintrait:
+        fetchDefaultSkin: true
+        updateSkins: false
+      location:
+        bodyYaw: -179.81583
+        world: world
+        x: '-349.084'
+        y: '68.0'
+        z: '636.7'
+        yaw: '-179.8158'
+        pitch: '-2.4787'
+      spawned: true
+      type: PLAYER
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+        commands:
+          '0':
+            command: 3414fsafsg54ewdsf
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+        cooldowns:
+          3e1d3a79-50ff-317d-a31f-93ff28919ef7:
+            lastUsedId: 0
+          862241e4-b13a-3556-833a-c26112be3549:
+            lastUsedId: 0
+          b138e781-9cf9-32e7-a646-494c984893c2:
+            lastUsedId: 0
+          9af05406-dc21-368d-b76e-925533b15ae9:
+            lastUsedId: 0
+          1ca70a9b-58cf-3e2b-ac6a-342ec0c9823f:
+            lastUsedId: 0
+          e2ece1e9-3a72-3802-a253-d41930348210:
+            lastUsedId: 0
+          31157464-31a5-33eb-a16f-bebc2f6ad3aa:
+            lastUsedId: 0
+          0c11d5d2-5174-3979-88ee-0ff7afc59e8e:
+            lastUsedId: 0
+    traitnames: type,owner,spawned,age,commandtrait,inventory,mounttrait,location,scoreboardtrait,skintrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

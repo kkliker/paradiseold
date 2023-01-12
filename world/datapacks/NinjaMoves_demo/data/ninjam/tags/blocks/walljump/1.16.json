@@ -1,0 +1,17 @@
+{
+	"values": [
+		"#ninjam:walljump/1.15",
+		"#minecraft:fence_gates",
+		"minecraft:crimson_fungus",
+		"minecraft:warped_fungus",
+		"minecraft:crimson_roots",
+		"minecraft:warped_roots",
+		"minecraft:nether_sprouts",
+		"minecraft:weeping_vines",
+		"minecraft:twisting_vines",
+		"minecraft:soul_torch",
+		"minecraft:chain",
+		"minecraft:soul_campfire",
+		"minecraft:soul_lantern"
+	]
+}

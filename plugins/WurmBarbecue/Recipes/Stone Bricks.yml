@@ -1,0 +1,23 @@
+WurmBarbecueRecipe:
+  Activated: true
+  Educt Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_SMOOTH_BRICK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 2
+  Product Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_SMOOTH_BRICK
+  Recipe Type: 1
+  Cooking Time: 30
+  Educt Message: This looks cracked...
+  Product Message: Your bricks are clean again
+  Recipe Book:
+    Educt Name: Cracked stone brick
+    Product Name: Stone brick
+    Recipe Name: Stone brick
+    Description: Nice building material

@@ -1,0 +1,19 @@
+WurmBarbecueRecipe:
+  Activated: true
+  Educt Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_CLAY_BALL
+  Product Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_CLAY_BRICK
+  Recipe Type: 1
+  Cooking Time: 15
+  Educt Message: Bricks can be very usefull for creating roofs
+  Product Message: You melted some bricks
+  Recipe Book:
+    Educt Name: Clay
+    Product Name: Brick
+    Recipe Name: Bricks
+    Description: Use these for perfect roofs!

@@ -1,0 +1,31 @@
+[12/10/2022 14:24:19]:           __             _       
+[12/10/2022 14:24:19]:   _ __   / /  ___   __ _(_)_ __  
+[12/10/2022 14:24:19]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[12/10/2022 14:24:19]:  | | | / /__| (_) | (_| | | | | |
+[12/10/2022 14:24:19]:  |_| |_\____/\___/ \__, |_|_| |_|
+[12/10/2022 14:24:19]:                   |___/            
+[12/10/2022 14:24:19]:  By: www.nickuc.com - V 10.1.8 DEVELOPMENT
+[12/10/2022 14:24:19]: 
+[12/10/2022 14:24:20]: §3[nLogin] [DEBUG] Detecting hardware and software configurations...
+[12/10/2022 14:24:23]: §3[nLogin] [DEBUG] All settings were loaded in 1841 ms.
+[12/10/2022 14:24:23]: §3[nLogin] [DEBUG] Loading the messages_ru.yml message file...
+[12/10/2022 14:24:23]: §3[nLogin] [DEBUG] All plugin messages were loaded in 159 ms (languageByClient=false).
+[12/10/2022 14:24:23]: §3[nLogin] [DEBUG] All proxy settings were loaded in 10 ms.
+[12/10/2022 14:24:23]: §3[nLogin] [DEBUG] Starting logger filter...
+[12/10/2022 14:24:23]: §3[nLogin] [DEBUG] Loading database...
+[12/10/2022 14:24:28]: [nLogin] nLogin was loaded in 10706ms.
+[12/10/2022 14:28:24]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "INSERT INTO `nlogin` (`name`, `realname`, `uniqueId`, `premiumId`, `premium`, `password`, `address`, `regdate`, `lastlogin`, `email`, `twitter`, `discord`, `settings`) VALUES ('shipanulsya', 'Shipanulsya', 92dc7dce985a356c87ee01da4dadae49, null, -1, null, '127.0.0.1', '1970-01-01 00:00:00.0', '1970-01-01 00:00:00.0', null, null, null, null)"
+[12/10/2022 14:32:58]: §3[nLogin] [DEBUG] All settings were loaded in 117 ms.
+[12/10/2022 14:32:58]: §3[nLogin] [DEBUG] Loading the messages_ru.yml message file...
+[12/10/2022 14:32:58]: §3[nLogin] [DEBUG] All plugin messages were loaded in 113 ms (languageByClient=false).
+[12/10/2022 14:32:58]: §3[nLogin] [DEBUG] All proxy settings were loaded in 0 ms.
+[12/10/2022 14:33:10]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `realname` = 'Shipanulsya', `uniqueId` = 92dc7dce985a356c87ee01da4dadae49,  `premiumId` = null,  `premium` = -1,  `password` = '$SHA512$0708324c29b5791db7ce505bf6598a76d530d0c3ff392a9270a8cb4273c032a656090f4d6b693342ca62f6d24539697b59d8b8dc0fb6c16985f397587d7a2dca$SkOyuojLBslsIIokYDVxUlBo', `address` = '77.40.61.39', `regdate` = 2022-12-10 14:33:09.313, `lastlogin` = 2022-12-10 14:33:09.313, `email` = null, `twitter` = null, `discord` = null, `settings` = '{"settings":[{"value":"aKw9ngX+Z0JPhb9kO8F7Chz91AJ6d4gVMj9pdOZ67PDgtaDRmkfJg8LTRUFjzFfjag17Hyhx0b5z+FU2t765/F+DComNozV9qlc4jFUBj91EIGIDCQlXj16Omnv+v6glKtA3EQ+9rSo4P3LmR5EAA2LtSUIMw5EKSq0uDXnm21XivAdVfDhO9WMh9JIOu7ckAc+SqsZ7i3qCPNYj15EE0ZiVqE0jNiH282bvZXJT5tDYf4K6Hu4yiHHezUpQ6JS7RZqzM9A0WPQP9tFem7W56ldn22AFVo2u590bwF4RAScHwvqLQkTdhfqcs6Qc1NpXDlN+pI72nHegnVeVHWSvk65t0ylqTe2ItR5iZojdYxBmofF9dA8Vn4iCn49D/8zL7bqODD3bmCsmyCFgHzNFmkLaMQeDL/12D/dyI7S7z81PWfQfl8VO7DRrAimwsafA31pHbwMpDhwPEYMooNQpLvH0NhxGrcaTSmXF+0F8laHRYhYD/PN2CIVEUFocyNZSZYFrji10qqc7ZvOukGNqzDDktnqr4L439Cq2D8oounagC4xjT8V7YCMdInbs8sE/y2a6w0OYzVvAxNSGSi42V0vs54Q/XRw0DfsOqy9VbQZGSLA20eMyzheepeS+xUOcaRfRq+BtgwY+tm/ItEF8FYC7UV1DTHRpXEuJIhBL1t4=:ed4SUz3PFbBKDW0pRON+1KMjqhQ6EUArXA0jbn0O7UiR7753P7KBwiVxGJxcJZ3Sc2c=","key":"encrypted"}],"version":0}' WHERE `id` = 41"
+[12/10/2022 14:33:11]: [nLogin] The user Shipanulsya has successfully registered.
+[12/10/2022 14:33:59]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `realname` = 'qShip', `uniqueId` = 5210a989af313423b0fa5a492620269e,  `premiumId` = null,  `premium` = -1,  `password` = '$SHA512$aae4253cd8b8e2529453eb979d9b0f928b6fd2b459b5cd85eb60578f81e9cfdf693c938b8a18febe0316d12b60ed7acebc3c23996b048f37634187ff6f558a0e$ivrFCXsopAeAjUUMRBYcYblT', `address` = '77.40.61.39', `regdate` = 2022-11-12 16:00:11.834, `lastlogin` = 2022-12-10 14:33:59.807, `email` = null, `twitter` = null, `discord` = null, `settings` = '{"settings":[{"value":"mQz90Oim1d9J3rPUt/dxLco+kxiQgr/Qxn1sFftBtA3/JhAh3rZTxmqk2gKoLaMbinkxGp4f3RJkqcY4zPWCaiWZZpeV5Isu91HGSYsDXFnYR37OOgjRuZ865L9PREFFR4qhPvOqNXYT38dakCXmwNtaIhjWZC8r3uFS1QsxzlOJSAXlKFMnppO1DXNhA3hDRLh8rXktsBPXjHMpG1QZPOBTT1N7AdIVTZqJV317opnnKJKYlsxJqDAx4j02Ny+cANzcoj/PtSgdFARqc6diDfkOK+3Q6VGQSBNnpyKnI2X7Xl3OIhZ3uoiJMzXoXHFYgOE/ATzL8IrLoEj9XpYWgerDusYG/zhAmD5ftiJrOW6ofEddw78LLCNDWs5L9oJnGfLPujtnhszuC+LH1DJ8+ANW8yJKJ4FvBmQ1n1WbW5evN7UQE2cNy+FpZLUEcwf9DMnnTUSZMIb87kpotZ+Sk1qicEvc6byNox6louuu5AFiH2IuJhNcer6c+SVUFL/5rUaedIA4cAeZL4XDjjza8rETZApbkGqCQL9qlNZHT73EaPeJ3o3LbGyfEGe045HeIZX1Dq0LI1IQgTGaQx9sBos9rBfDYDdlK397+hbB/CeItiXQklT286wrKIUOH8Mc6eeW0IZvwCT85rFxKzg0fGdYG1DOtKr/xMk8ZhZcTOE=:ILOTdRFkyqsAsrPAUEdec5Ke45LwOvxgTQOPzIL43JmT/ecSe1W1V/V9w6hbkd4WqTM=","key":"encrypted"}],"version":0}' WHERE `id` = 1"
+[12/10/2022 14:33:59]: [nLogin] The user qShip has successfully logged in.
+[12/10/2022 14:38:26]: [nLogin] Could not install: update was not confirmed by the user.
+[12/10/2022 14:38:26]: [nLogin] Successful plugin core shutdown (took 0.01s)
+[12/10/2022 14:38:26]: [nLogin] 
+[12/10/2022 14:38:26]: [nLogin] Shutting down nLogin V 10.1.8...
+[12/10/2022 14:38:26]: [nLogin] 
+[12/10/2022 14:38:26]: [nLogin] nLogin was unloaded in 30ms.

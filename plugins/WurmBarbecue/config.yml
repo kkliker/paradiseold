@@ -1,0 +1,10 @@
+WurmBarbecue:
+  Main:
+    Enable Food Cooking: true
+    Enable Ore Melting: false
+    Disable Furnaces [FOOD]: false
+    Disable Furnaces [ORES]: false
+    Multiple Items:
+      Factor 1: 10
+      Factor 2: 30
+      Factor 3: 90

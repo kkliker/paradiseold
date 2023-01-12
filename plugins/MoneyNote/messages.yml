@@ -1,0 +1,37 @@
+messages:
+  cannot-craft-item: '&cSorry, this item cannot be crafted!'
+  inventory-is-full: '&cYour inventory is full! Cannot create note.'
+  other-players-inventory-is-full: '&c%player%''s inventory is full! Cannot create
+    note.'
+  balance-is-zero: '&cYou cannot withdraw $0!'
+  balance-to-low: '&cYour balance must be atleast %min% to create a note!'
+  no-permission: '&cYou do not have permission to do that!'
+  player-not-found: '&cPlayer not found.'
+  incorrect-withdrawal: '&cYou can only withdraw number amounts.'
+  min-max-error: '&cAmount must be between &a$%min% &cand &a$%max%&c!'
+  disabled-crafting: '&cThis item cannot be used in a crafting table!'
+  disable-villager-trade: '&cThis item cannot be traded!'
+  admin-note-sent: '&cServer sent a note of &b%amount% to &b%player%&c!'
+  redeem:
+  - '&a&l+ $%amount%'
+  - '&2Successfully added money into balance!'
+  withdraw:
+  - '&c&l- $%amount%'
+  - '&4Successfully withdrew money from balance!'
+  withdrawal-item-dropped:
+  - '&c&l- $%amount%'
+  - '&cWARNING: &aInventory was full, money note was dropped below you!'
+  given-withdraw:
+  - '&4%signer% sent you a money note of &a&l$%amount%!'
+  given-withdrawal-item-dropped:
+  - '&4%signer% sent you a money note of &a&l$%amount%!'
+  - '&cWARNING: &aInventory was full, money note was dropped below you!'
+  usage:
+  - '&b&m========&7[&6MoneyNote&7]&b&m========'
+  - '&d/&7withdraw <$>'
+  - '&d/&7withdraw all'
+  - '&d/&7withdraw random'
+  - '&d/&7withdraw give <player> <$>'
+  give-usage: '&a&lUsage: &d/&7withdraw give <player> <$>'
+content:
+  server-note-name: Server

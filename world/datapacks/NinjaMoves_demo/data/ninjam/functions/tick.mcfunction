@@ -1,0 +1,1 @@
+execute if score McVersion fktool matches 11700.. if entity @p[scores={ninjam.enable=1}] run function ninjam:loop

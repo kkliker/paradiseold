@@ -1,0 +1,8 @@
+issuer:
+  enable: false
+  override: "&kSecret"
+note:
+  material: PAPER
+  name: "&3{value}$"
+  lore:
+    - "&fОбычная {value} долларовая купюра"

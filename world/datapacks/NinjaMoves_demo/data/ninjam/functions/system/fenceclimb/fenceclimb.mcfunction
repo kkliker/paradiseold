@@ -1,0 +1,1 @@
+execute if block ~ ~-1 ~ #ninjam:fenceclimb/fencable if block ~ ~-.2 ~ #ninjam:fenceclimb/fencable unless block ~ ~-.1 ~ minecraft:air if block ~ ~ ~ #ninjam:airs if block ~ ~1 ~ #ninjam:airs if entity @s[nbt={OnGround:0b}] unless entity @e[type=minecraft:area_effect_cloud,tag=ninjam.fenceclimb,distance=..2] run function ninjam:system/fenceclimb/spawn

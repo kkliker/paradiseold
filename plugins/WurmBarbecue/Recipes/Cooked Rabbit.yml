@@ -1,0 +1,19 @@
+WurmBarbecueRecipe:
+  Activated: true
+  Educt Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_RABBIT
+  Product Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_COOKED_RABBIT
+  Recipe Type: 0
+  Cooking Time: 35
+  Educt Message: Rabbits are very delicious
+  Product Message: Cooked rabbit! Something exclusive!
+  Recipe Book:
+    Educt Name: Raw rabbit
+    Product Name: Cooked rabbit
+    Recipe Name: Christmas rabbit
+    Description: Try it with cinnamon

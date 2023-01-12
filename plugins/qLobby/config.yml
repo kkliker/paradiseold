@@ -1,0 +1,769 @@
+locations:
+  qShip:
+    ==: org.bukkit.Location
+    world: world
+    x: -394.69999998807907
+    y: 84.5436537493028
+    z: 701.6999999880791
+    pitch: 12.900098
+    yaw: -67.80259
+  C0nnor123:
+    ==: org.bukkit.Location
+    world: world
+    x: -351.30000001192093
+    y: 89.0
+    z: 525.0495226958084
+    pitch: 11.850915
+    yaw: 163.55449
+  artur_liset:
+    ==: org.bukkit.Location
+    world: world
+    x: -377.5094915242569
+    y: 69.0
+    z: 671.4247158469724
+    pitch: -26.832146
+    yaw: -95.90822
+  sst11:
+    ==: org.bukkit.Location
+    world: world
+    x: -397.6827498111369
+    y: 72.0
+    z: 706.9814188230538
+    pitch: 10.967634
+    yaw: -25.257729
+  '5819254627254':
+    ==: org.bukkit.Location
+    world: world
+    x: -386.41396455171366
+    y: 72.0
+    z: 702.5159483323934
+    pitch: 1.3678329
+    yaw: 90.091896
+  '6241852876607':
+    ==: org.bukkit.Location
+    world: world
+    x: -386.41396455171366
+    y: 72.0
+    z: 702.5159483323934
+    pitch: 1.3678329
+    yaw: 90.091896
+  '9547259122148':
+    ==: org.bukkit.Location
+    world: world
+    x: -386.41396455171366
+    y: 72.0
+    z: 702.5159483323934
+    pitch: 1.3678329
+    yaw: 90.091896
+  '8049713737668':
+    ==: org.bukkit.Location
+    world: world
+    x: -386.41396455171366
+    y: 72.0
+    z: 702.5159483323934
+    pitch: 1.3678329
+    yaw: 90.091896
+  '1326582990938':
+    ==: org.bukkit.Location
+    world: world
+    x: -386.41396455171366
+    y: 72.0
+    z: 702.5159483323934
+    pitch: 1.3678329
+    yaw: 90.091896
+  '4560195463572':
+    ==: org.bukkit.Location
+    world: world
+    x: -386.41396455171366
+    y: 72.0
+    z: 702.5159483323934
+    pitch: 1.3678329
+    yaw: 90.091896
+  kanduz:
+    ==: org.bukkit.Location
+    world: world
+    x: -357.30022905166527
+    y: 69.0
+    z: 607.6919968470102
+    pitch: 9.097197
+    yaw: 79.00488
+  '1125312131854':
+    ==: org.bukkit.Location
+    world: world
+    x: -386.41396455171366
+    y: 72.0
+    z: 702.5159483323934
+    pitch: 1.3678329
+    yaw: 90.091896
+  '1511476696012':
+    ==: org.bukkit.Location
+    world: world
+    x: -386.41396455171366
+    y: 72.0
+    z: 702.5159483323934
+    pitch: 1.3678329
+    yaw: 90.091896
+  DioChava:
+    ==: org.bukkit.Location
+    world: world
+    x: -367.9143334630902
+    y: 69.25
+    z: 673.1693364139965
+    pitch: 4.2406025
+    yaw: 40.506287
+  JoinHate85:
+    ==: org.bukkit.Location
+    world: world
+    x: -397.94484869387475
+    y: 91.0
+    z: 698.8349005207498
+    pitch: 24.124237
+    yaw: -131.62846
+  xllgeorgiy:
+    ==: org.bukkit.Location
+    world: world
+    x: -386.41396455171366
+    y: 72.0
+    z: 702.5159483323934
+    pitch: 1.3678329
+    yaw: 90.091896
+  DrKapdor:
+    ==: org.bukkit.Location
+    world: world
+    x: -308.0298560381255
+    y: 69.0
+    z: 700.9269594674425
+    pitch: -13.377775
+    yaw: -39.378967
+  Danon653:
+    ==: org.bukkit.Location
+    world: world
+    x: -431.0600570828451
+    y: 69.0
+    z: 568.5071733971115
+    pitch: 23.267838
+    yaw: -117.80945
+  EgorikST:
+    ==: org.bukkit.Location
+    world: world
+    x: -270.2359505223572
+    y: 69.0
+    z: 756.7317695441973
+    pitch: 19.649958
+    yaw: -54.973633
+  LudaKurwaPvp:
+    ==: org.bukkit.Location
+    world: world
+    x: -384.22232256471193
+    y: 69.125
+    z: 673.502395274708
+    pitch: 19.086906
+    yaw: 157.80232
+  Gnegkkk:
+    ==: org.bukkit.Location
+    world: world
+    x: -410.8507808671688
+    y: 69.125
+    z: 637.8317515631596
+    pitch: 10.460338
+    yaw: -178.40694
+  Hmessja:
+    ==: org.bukkit.Location
+    world: world
+    x: -387.6637931264698
+    y: 72.0
+    z: 689.5617790628144
+    pitch: 22.009851
+    yaw: 2.0993311
+  LOxmaitiy:
+    ==: org.bukkit.Location
+    world: world
+    x: -343.40574493716144
+    y: 57.0
+    z: 570.6999999880791
+    pitch: 10.488952
+    yaw: 148.79796
+  gfgdfgrg:
+    ==: org.bukkit.Location
+    world: world
+    x: -285.46000881054806
+    y: 69.17647087614428
+    z: 738.4154588821424
+    pitch: 55.049988
+    yaw: 81.82349
+  koroniska:
+    ==: org.bukkit.Location
+    world: world
+    x: -383.73250600701533
+    y: 44.166109260938214
+    z: 282.8858340642995
+    pitch: 21.167831
+    yaw: 76.59284
+  GopHop:
+    ==: org.bukkit.Location
+    world: world
+    x: -383.2690975984599
+    y: 69.125
+    z: 619.2191429875876
+    pitch: -8.5269985
+    yaw: -94.67203
+  NOYno3uTuB:
+    ==: org.bukkit.Location
+    world: world
+    x: -393.96958527428603
+    y: 72.0
+    z: 698.9008568021989
+    pitch: -2.6821673
+    yaw: 88.8919
+  dogleash:
+    ==: org.bukkit.Location
+    world: world
+    x: -406.8916199198251
+    y: 70.16592900102059
+    z: 606.9293423619673
+    pitch: 14.250395
+    yaw: 152.75879
+  Shipanulsya:
+    ==: org.bukkit.Location
+    world: world
+    x: -386.41396455171366
+    y: 72.0
+    z: 702.5159483323934
+    pitch: 1.3678329
+    yaw: 90.091896
+  075367801:
+    ==: org.bukkit.Location
+    world: world
+    x: -386.41396455171366
+    y: 72.0
+    z: 702.5159483323934
+    pitch: 1.3678329
+    yaw: 90.091896
+  gsui:
+    ==: org.bukkit.Location
+    world: world
+    x: -386.41396455171366
+    y: 72.0
+    z: 702.5159483323934
+    pitch: 1.1231532
+    yaw: 89.60255
+  DRO4ILA:
+    ==: org.bukkit.Location
+    world: world
+    x: -388.9704689207138
+    y: 69.125
+    z: 671.2387379995408
+    pitch: 11.550003
+    yaw: -139.65002
+  Defray_:
+    ==: org.bukkit.Location
+    world: world
+    x: -385.1383777982987
+    y: 72.0
+    z: 695.6929872247757
+    pitch: 2.1492004
+    yaw: 97.12982
+  warlabych:
+    ==: org.bukkit.Location
+    world: world
+    x: -411.65906341247495
+    y: 63.0
+    z: 552.7958101915962
+    pitch: 57.150024
+    yaw: -8.550126
+  vova_putin:
+    ==: org.bukkit.Location
+    world: world
+    x: -303.56245656486345
+    y: 69.0
+    z: 530.3000000119209
+    pitch: 9.963949
+    yaw: -34.13311
+  Ullri:
+    ==: org.bukkit.Location
+    world: world
+    x: -393.26465337519807
+    y: 72.0
+    z: 708.7780552973068
+    pitch: 22.199987
+    yaw: -123.30002
+  kmok:
+    ==: org.bukkit.Location
+    world: world
+    x: -393.57849640741506
+    y: 72.0
+    z: 708.6166629697121
+    pitch: 32.99999
+    yaw: -123.149895
+  palzanis:
+    ==: org.bukkit.Location
+    world: world
+    x: -365.1897054719339
+    y: 71.0
+    z: 599.2734796159502
+    pitch: 21.600317
+    yaw: 41.309208
+  wxz2x:
+    ==: org.bukkit.Location
+    world: world
+    x: -395.2718823947236
+    y: 69.125
+    z: 673.0554032664506
+    pitch: 8.877213
+    yaw: -97.215546
+  Sanya:
+    ==: org.bukkit.Location
+    world: world
+    x: -382.38371120899393
+    y: 72.5
+    z: 691.3000000119209
+    pitch: -2.6939151
+    yaw: 51.95642
+  DeFFka17:
+    ==: org.bukkit.Location
+    world: world
+    x: -402.5
+    y: 127.0
+    z: 533.5
+    pitch: -90.0
+    yaw: 1.950014
+  KelTyzed95:
+    ==: org.bukkit.Location
+    world: world
+    x: -413.5
+    y: 127.0
+    z: 525.5
+    pitch: 7.608006
+    yaw: 104.259544
+  ghst_64:
+    ==: org.bukkit.Location
+    world: world
+    x: -404.2344850421185
+    y: 72.25
+    z: 684.8335332280548
+    pitch: 45.623146
+    yaw: -111.8813
+  MOD:
+    ==: org.bukkit.Location
+    world: world
+    x: -380.58211759546515
+    y: 69.125
+    z: 616.1745185060373
+    pitch: 25.08063
+    yaw: 144.07336
+  FaKeYouSorrY:
+    ==: org.bukkit.Location
+    world: world
+    x: -387.89812431756667
+    y: 72.0
+    z: 690.3560288414354
+    pitch: 17.249998
+    yaw: -155.70001
+  Waind:
+    ==: org.bukkit.Location
+    world: world
+    x: -358.20649611779766
+    y: 79.375
+    z: 644.1365537987298
+    pitch: 20.850609
+    yaw: -143.19116
+  AlmazikCorol:
+    ==: org.bukkit.Location
+    world: world
+    x: -362.3659496453811
+    y: 69.125
+    z: 634.7116056562495
+    pitch: 6.2195935
+    yaw: -151.96693
+  akamii_top:
+    ==: org.bukkit.Location
+    world: world
+    x: -387.58135269871667
+    y: 71.0
+    z: 685.8488418051021
+    pitch: 8.25
+    yaw: -170.09999
+  Player195:
+    ==: org.bukkit.Location
+    world: world
+    x: -379.5218195420451
+    y: 70.5
+    z: 685.2275490415586
+    pitch: 23.867867
+    yaw: -164.29135
+  UnKnOwN:
+    ==: org.bukkit.Location
+    world: world
+    x: -386.0145391720867
+    y: 69.125
+    z: 635.7042522043681
+    pitch: 20.851864
+    yaw: -156.05115
+  _netsoon_:
+    ==: org.bukkit.Location
+    world: world
+    x: -286.91554908247764
+    y: 69.5
+    z: 659.051901574253
+    pitch: 10.719431
+    yaw: 139.01175
+  Huntress0404:
+    ==: org.bukkit.Location
+    world: world
+    x: -497.3315774959614
+    y: 70.0
+    z: 488.0872569055709
+    pitch: 6.4500017
+    yaw: -1.5010376
+  Gagagarf:
+    ==: org.bukkit.Location
+    world: world
+    x: -519.258908423022
+    y: 61.01256625745141
+    z: 520.9668029528735
+    pitch: -2.9273553
+    yaw: -92.88168
+  Dark5649:
+    ==: org.bukkit.Location
+    world: world
+    x: -382.69999998807907
+    y: 69.125
+    z: 535.9066559025891
+    pitch: 24.197926
+    yaw: 147.0498
+  MamiNety983:
+    ==: org.bukkit.Location
+    world: world
+    x: -388.52813341274424
+    y: 70.6212968405392
+    z: 682.0793732421529
+    pitch: 4.2000003
+    yaw: 170.54994
+  Alunane:
+    ==: org.bukkit.Location
+    world: world
+    x: -388.18304159457784
+    y: 71.5
+    z: 686.7115118224316
+    pitch: 38.25032
+    yaw: -99.271706
+  Glebanya3110:
+    ==: org.bukkit.Location
+    world: world
+    x: -402.45046830006686
+    y: 72.0
+    z: 709.6210519812277
+    pitch: 7.9254017
+    yaw: 150.82373
+  DedInside3:
+    ==: org.bukkit.Location
+    world: world
+    x: -426.49140042509964
+    y: 84.69999993443511
+    z: 684.6395654136472
+    pitch: 52.199955
+    yaw: 96.900345
+  zombak:
+    ==: org.bukkit.Location
+    world: world
+    x: -254.5
+    y: 71.5
+    z: 415.5
+    pitch: 20.22859
+    yaw: 8.155711
+  rOrkinnn:
+    ==: org.bukkit.Location
+    world: world
+    x: -430.6019127127417
+    y: 63.0
+    z: 502.2521621005495
+    pitch: 89.25372
+    yaw: 72.04984
+  MrAk_Of_DeAd:
+    ==: org.bukkit.Location
+    world: world
+    x: -313.30000001192093
+    y: 79.0
+    z: 506.300000011921
+    pitch: 15.96707
+    yaw: 26.099901
+  Shapevenysey:
+    ==: org.bukkit.Location
+    world: world
+    x: -358.2536321793389
+    y: 69.5
+    z: 613.3425837080866
+    pitch: 25.769287
+    yaw: -156.2139
+  KAHJKM:
+    ==: org.bukkit.Location
+    world: world
+    x: -306.2045008470401
+    y: 141.0
+    z: 451.89335674326196
+    pitch: 15.399593
+    yaw: -12.858533
+  Andrey_Sampov:
+    ==: org.bukkit.Location
+    world: world
+    x: -377.4860488775172
+    y: 72.0
+    z: 691.31368578599
+    pitch: 10.499974
+    yaw: -90.600006
+  Ymner_:
+    ==: org.bukkit.Location
+    world: world
+    x: -401.36869425287665
+    y: 127.0
+    z: 515.0823122338343
+    pitch: 1.2059932
+    yaw: -80.966965
+  Semyon:
+    ==: org.bukkit.Location
+    world: world
+    x: -398.40129961700836
+    y: 70.76636799395752
+    z: 514.4015671188954
+    pitch: 24.187365
+    yaw: -6.9348145
+  spermantraut:
+    ==: org.bukkit.Location
+    world: world
+    x: -407.80068296426947
+    y: 142.0
+    z: 527.6988762971829
+    pitch: 30.346455
+    yaw: -96.33008
+  handcuffs:
+    ==: org.bukkit.Location
+    world: world
+    x: -637.2155128762116
+    y: 58.0
+    z: 652.057752648183
+    pitch: 12.543799
+    yaw: -83.94769
+  FCB:
+    ==: org.bukkit.Location
+    world: world
+    x: -386.4905379438032
+    y: 72.0
+    z: 702.4619672003718
+    pitch: -1.1741766
+    yaw: -2.4813612
+  efteltje:
+    ==: org.bukkit.Location
+    world: world
+    x: -377.71363399169917
+    y: 72.0
+    z: 704.440251110585
+    pitch: 15.45005
+    yaw: 26.767443
+  diamondbuster68:
+    ==: org.bukkit.Location
+    world: world
+    x: -387.9344865388253
+    y: 72.0
+    z: 688.7279030935913
+    pitch: 1.9870167
+    yaw: 173.53557
+  ffeto1ng:
+    ==: org.bukkit.Location
+    world: world
+    x: -388.78004009194456
+    y: 102.72515542824546
+    z: 716.7481889888885
+    pitch: 62.850002
+    yaw: 142.65004
+  lexa7165:
+    ==: org.bukkit.Location
+    world: world
+    x: -404.8806091398001
+    y: 122.0
+    z: 565.0091606378555
+    pitch: 42.655476
+    yaw: -5.4934683
+  Jarovan3431211:
+    ==: org.bukkit.Location
+    world: world
+    x: -387.5
+    y: 106.0999984741211
+    z: 702.5
+    pitch: 0.0
+    yaw: 0.0
+  zZzZass:
+    ==: org.bukkit.Location
+    world: world
+    x: -393.58936337378464
+    y: 69.0
+    z: 523.7442786853821
+    pitch: 20.772457
+    yaw: 84.78442
+  NeBanipch:
+    ==: org.bukkit.Location
+    world: world
+    x: -385.8096061523459
+    y: 72.0
+    z: 700.7612174090605
+    pitch: 12.838878
+    yaw: 112.6564
+  FaKeYouSorrY1:
+    ==: org.bukkit.Location
+    world: world
+    x: -387.45913509181634
+    y: 72.0
+    z: 711.4516359384969
+    pitch: 7.8001103
+    yaw: -175.94958
+  IIutin:
+    ==: org.bukkit.Location
+    world: world
+    x: -373.36708797326247
+    y: 72.0
+    z: 705.1529139178871
+    pitch: 24.000017
+    yaw: -44.550568
+  nokaf23840:
+    ==: org.bukkit.Location
+    world: world
+    x: -391.8368750360759
+    y: 69.375
+    z: 675.4612037102906
+    pitch: 6.000002
+    yaw: 43.349915
+  GoOdGaMe071:
+    ==: org.bukkit.Location
+    world: world
+    x: -394.2331406004351
+    y: 72.0
+    z: 707.5630466003558
+    pitch: 1.8235468
+    yaw: -107.81157
+  _KaKtuSIK_RR:
+    ==: org.bukkit.Location
+    world: world
+    x: -392.75471410822524
+    y: 69.125
+    z: 498.0632048440807
+    pitch: 10.526369
+    yaw: 20.169209
+  Adolf_Hitler:
+    ==: org.bukkit.Location
+    world: world
+    x: -306.373963652028
+    y: 103.21619815816916
+    z: 669.76834700707
+    pitch: 17.974274
+    yaw: -136.51419
+  rune_Stas1234:
+    ==: org.bukkit.Location
+    world: world
+    x: -397.3722298549153
+    y: 64.0
+    z: 594.4758310893225
+    pitch: 32.999985
+    yaw: 176.10059
+  PobritoeOcko:
+    ==: org.bukkit.Location
+    world: world
+    x: -380.5073337865364
+    y: 72.0
+    z: 696.3224258634299
+    pitch: -27.855865
+    yaw: 39.55761
+  Chusaki:
+    ==: org.bukkit.Location
+    world: world
+    x: -491.52214443050354
+    y: 71.0
+    z: 524.5124999880791
+    pitch: 12.063618
+    yaw: -1.2059937
+  MrBomzhick:
+    ==: org.bukkit.Location
+    world: world
+    x: -387.45160711417185
+    y: 69.125
+    z: 671.5029469904872
+    pitch: -1.3499509
+    yaw: -176.1007
+  foxker:
+    ==: org.bukkit.Location
+    world: world
+    x: -374.2621997458553
+    y: 72.5
+    z: 696.5386129605486
+    pitch: 28.649971
+    yaw: -153.30042
+  Coderas:
+    ==: org.bukkit.Location
+    world: world
+    x: -344.07260560354246
+    y: 70.0
+    z: 642.8683516113264
+    pitch: 11.699991
+    yaw: 76.04977
+  popsassa:
+    ==: org.bukkit.Location
+    world: world
+    x: -380.10492930295135
+    y: 69.5
+    z: 672.9784519354268
+    pitch: 17.550001
+    yaw: 24.900076
+  fredimen1337__:
+    ==: org.bukkit.Location
+    world: world
+    x: -408.50622430708614
+    y: 69.25
+    z: 637.7810943203365
+    pitch: 22.500017
+    yaw: -162.59999
+  ziptyma:
+    ==: org.bukkit.Location
+    world: world
+    x: -408.80463404983453
+    y: 127.0
+    z: 517.146354119524
+    pitch: 14.099987
+    yaw: -65.850586
+  Deff11_1:
+    ==: org.bukkit.Location
+    world: world
+    x: -395.42949469091144
+    y: 69.25
+    z: 680.835319581279
+    pitch: 5.532356
+    yaw: -25.247559
+  DreamTeamcheck:
+    ==: org.bukkit.Location
+    world: world
+    x: -395.69999998807907
+    y: 84.0
+    z: 521.9499999880791
+    pitch: 29.399994
+    yaw: -142.95007
+  ma37443645:
+    ==: org.bukkit.Location
+    world: world
+    x: -361.0886125769154
+    y: 72.98066582234064
+    z: 712.8361203843739
+    pitch: 41.670464
+    yaw: 174.29279
+  Gopa12:
+    ==: org.bukkit.Location
+    world: world
+    x: -414.30000001192093
+    y: 127.0
+    z: 529.5269798165539
+    pitch: 82.94987
+    yaw: 179.3812
+  vova4445:
+    ==: org.bukkit.Location
+    world: world
+    x: -393.6451780338935
+    y: 72.79673560066871
+    z: 700.8316012598272
+    pitch: 19.019245
+    yaw: -155.55548

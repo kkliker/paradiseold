@@ -1,0 +1,9 @@
+on script load:
+    if {num} is not set:
+        set {num} to 1
+
+on join:
+    if {number::%player's uuid%} is not set:
+        set {number::%player's uuid%} to {num}
+        add 1 to {num}
+        set player tab name to "&7{num}"

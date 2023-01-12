@@ -1,0 +1,16 @@
+# Groups - Permission group for tcf.{group} (ex: tcf.default)
+# List of registered commands that will show in tab complete for group
+# The user will also need the perm for the command itself
+groups:
+  default:
+  - /sit
+  - /lay
+  - /crawl
+  - /wave
+  - /login
+  - /register
+  mod:
+  - /ban
+  - /kick
+  - /mute
+  - //calculate

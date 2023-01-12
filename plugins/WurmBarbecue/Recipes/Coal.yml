@@ -1,0 +1,23 @@
+WurmBarbecueRecipe:
+  Activated: true
+  Educt Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_LOG
+  Product Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_COAL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 1
+  Recipe Type: 1
+  Cooking Time: 10
+  Educt Message: This piece of log will be perfect for burning it to coal!
+  Product Message: The coal should be fine by now. Don't let it burn for too long!
+  Recipe Book:
+    Educt Name: Log
+    Product Name: Charcoal
+    Recipe Name: Charcoal
+    Description: Usefull for torches!

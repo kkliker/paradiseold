@@ -1,0 +1,22 @@
+Regions:
+  world:
+    apartament1:
+      sold: false
+      paybackPercentage: 0
+      isHotel: false
+      lastreset: 0
+      lastLogin: 1670762070043
+      maxMembers: -1
+      regiontype: rentregion
+      autoprice: default
+      signs: []
+      kind: Default
+      flagGroup: Default
+      inactivityReset: true
+      entityLimitGroup: Default
+      autorestore: true
+      allowedSubregions: 0
+      userrestorable: true
+      boughtExtraTotalEntitys: 0
+      boughtExtraEntitys: []
+      payedTill: 0

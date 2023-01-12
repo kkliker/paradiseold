@@ -1,0 +1,239 @@
+[06-11-2022 12:34:15] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[06-11-2022 12:34:16] New file created at plugins/BigDoors/doorDB.db
+[06-11-2022 12:55:01] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[06-11-2022 13:02:23] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[06-11-2022 13:14:28] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[06-11-2022 14:12:34] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[06-11-2022 16:29:07] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[06-11-2022 16:35:21] Updating openDirection of sliding door 5 "mafia0" to NORTH. If this is undesired, change it via the GUI.
+[08-11-2022 12:18:36] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[09-11-2022 17:34:32] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[09-11-2022 18:04:39] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[09-11-2022 18:14:51] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[09-11-2022 18:16:31] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[10-11-2022 13:31:38] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[10-11-2022 13:31:38] Successfully hooked into "WorldGuard"!
+[11-11-2022 10:14:08] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-11-2022 10:14:08] Successfully hooked into "WorldGuard"!
+[11-11-2022 10:39:21] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-11-2022 10:39:21] Successfully hooked into "WorldGuard"!
+[11-11-2022 10:43:36] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-11-2022 10:43:36] Successfully hooked into "WorldGuard"!
+[11-11-2022 10:56:32] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-11-2022 10:56:32] Successfully hooked into "WorldGuard"!
+[11-11-2022 10:59:55] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-11-2022 10:59:55] Successfully hooked into "WorldGuard"!
+[11-11-2022 11:04:38] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-11-2022 11:04:38] Successfully hooked into "WorldGuard"!
+[11-11-2022 11:55:56] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-11-2022 11:55:57] Successfully hooked into "WorldGuard"!
+[11-11-2022 12:21:54] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-11-2022 12:21:54] Successfully hooked into "WorldGuard"!
+[11-11-2022 14:31:37] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-11-2022 14:31:38] Successfully hooked into "WorldGuard"!
+[11-11-2022 14:33:07] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-11-2022 14:33:07] Successfully hooked into "WorldGuard"!
+[11-11-2022 14:35:16] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-11-2022 14:35:16] Successfully hooked into "WorldGuard"!
+[11-11-2022 14:42:06] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-11-2022 14:42:06] Successfully hooked into "WorldGuard"!
+[11-11-2022 14:46:41] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-11-2022 14:46:41] Successfully hooked into "WorldGuard"!
+[11-11-2022 14:48:54] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-11-2022 14:48:54] Successfully hooked into "WorldGuard"!
+[11-11-2022 14:51:23] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-11-2022 14:51:24] Successfully hooked into "WorldGuard"!
+[11-11-2022 18:09:11] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-11-2022 18:09:11] Successfully hooked into "WorldGuard"!
+[11-11-2022 18:14:59] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-11-2022 18:14:59] Successfully hooked into "WorldGuard"!
+[11-11-2022 18:20:41] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-11-2022 18:20:41] Successfully hooked into "WorldGuard"!
+[11-11-2022 21:23:29] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-11-2022 21:23:29] Successfully hooked into "WorldGuard"!
+[12-11-2022 09:02:39] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-11-2022 09:02:39] Successfully hooked into "WorldGuard"!
+[12-11-2022 09:16:07] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-11-2022 09:16:08] Successfully hooked into "WorldGuard"!
+[12-11-2022 09:22:28] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-11-2022 09:22:29] Successfully hooked into "WorldGuard"!
+[12-11-2022 10:02:40] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-11-2022 10:02:40] Successfully hooked into "WorldGuard"!
+[12-11-2022 11:06:00] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-11-2022 11:06:01] Successfully hooked into "WorldGuard"!
+[12-11-2022 11:30:55] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-11-2022 11:30:56] Successfully hooked into "WorldGuard"!
+[12-11-2022 13:44:10] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-11-2022 13:44:10] Successfully hooked into "WorldGuard"!
+[12-11-2022 13:48:57] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-11-2022 13:48:57] Successfully hooked into "WorldGuard"!
+[12-11-2022 13:50:54] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-11-2022 13:50:55] Successfully hooked into "WorldGuard"!
+[12-11-2022 15:20:19] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-11-2022 15:20:19] Successfully hooked into "WorldGuard"!
+[12-11-2022 15:37:07] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-11-2022 15:37:07] Successfully hooked into "WorldGuard"!
+[12-11-2022 15:53:12] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-11-2022 15:53:12] Successfully hooked into "WorldGuard"!
+[12-11-2022 15:57:09] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-11-2022 15:57:10] Successfully hooked into "WorldGuard"!
+[12-11-2022 15:59:21] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-11-2022 15:59:21] Successfully hooked into "WorldGuard"!
+[12-11-2022 16:10:53] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-11-2022 16:10:53] Successfully hooked into "WorldGuard"!
+[12-11-2022 16:47:08] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-11-2022 16:47:09] Successfully hooked into "WorldGuard"!
+[12-11-2022 18:09:59] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-11-2022 18:09:59] Successfully hooked into "WorldGuard"!
+[12-11-2022 18:12:39] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-11-2022 18:12:39] Successfully hooked into "WorldGuard"!
+[12-11-2022 18:18:49] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-11-2022 18:18:49] Successfully hooked into "WorldGuard"!
+[12-11-2022 18:27:25] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-11-2022 18:27:25] Successfully hooked into "WorldGuard"!
+[12-11-2022 18:40:52] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-11-2022 18:40:52] Successfully hooked into "WorldGuard"!
+[12-11-2022 18:43:32] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-11-2022 18:43:32] Successfully hooked into "WorldGuard"!
+[12-11-2022 18:56:00] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-11-2022 18:56:01] Successfully hooked into "WorldGuard"!
+[13-11-2022 08:44:33] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-11-2022 08:44:34] Successfully hooked into "WorldGuard"!
+[13-11-2022 08:53:26] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-11-2022 08:53:26] Successfully hooked into "WorldGuard"!
+[13-11-2022 09:00:44] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-11-2022 09:00:44] Successfully hooked into "WorldGuard"!
+[13-11-2022 09:59:15] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-11-2022 09:59:15] Successfully hooked into "WorldGuard"!
+[13-11-2022 10:08:09] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-11-2022 10:08:09] Successfully hooked into "WorldGuard"!
+[13-11-2022 10:39:43] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-11-2022 10:39:44] Successfully hooked into "WorldGuard"!
+[13-11-2022 12:16:53] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-11-2022 12:16:54] Successfully hooked into "WorldGuard"!
+[13-11-2022 13:08:24] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-11-2022 13:08:24] Successfully hooked into "WorldGuard"!
+[13-11-2022 13:40:31] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-11-2022 13:40:31] Successfully hooked into "WorldGuard"!
+[13-11-2022 16:22:28] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-11-2022 16:22:29] Successfully hooked into "WorldGuard"!
+[13-11-2022 16:44:23] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-11-2022 16:44:23] Successfully hooked into "WorldGuard"!
+[13-11-2022 16:53:12] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-11-2022 16:53:12] Successfully hooked into "WorldGuard"!
+[13-11-2022 17:06:45] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-11-2022 17:06:46] Successfully hooked into "WorldGuard"!
+[13-11-2022 17:30:04] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-11-2022 17:30:05] Successfully hooked into "WorldGuard"!
+[13-11-2022 17:33:08] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-11-2022 17:33:09] Successfully hooked into "WorldGuard"!
+[13-11-2022 17:44:43] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-11-2022 17:44:43] Successfully hooked into "WorldGuard"!
+[13-11-2022 17:55:14] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-11-2022 17:55:14] Successfully hooked into "WorldGuard"!
+[13-11-2022 17:59:31] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-11-2022 17:59:32] Successfully hooked into "WorldGuard"!
+[13-11-2022 18:13:24] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-11-2022 18:13:26] Successfully hooked into "WorldGuard"!
+[13-11-2022 18:26:43] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-11-2022 18:26:44] Successfully hooked into "WorldGuard"!
+[13-11-2022 18:33:40] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-11-2022 18:33:41] Successfully hooked into "WorldGuard"!
+[13-11-2022 18:42:53] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-11-2022 18:42:54] Successfully hooked into "WorldGuard"!
+[13-11-2022 18:47:50] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-11-2022 18:47:51] Successfully hooked into "WorldGuard"!
+[13-11-2022 19:05:35] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-11-2022 19:05:35] Successfully hooked into "WorldGuard"!
+[09-12-2022 19:03:57] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[09-12-2022 19:03:57] Successfully hooked into "WorldGuard"!
+[10-12-2022 09:17:57] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[10-12-2022 09:17:57] Successfully hooked into "WorldGuard"!
+[10-12-2022 09:54:14] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[10-12-2022 09:54:15] Successfully hooked into "WorldGuard"!
+[10-12-2022 10:45:53] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[10-12-2022 10:45:53] Successfully hooked into "WorldGuard"!
+[10-12-2022 10:57:42] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[10-12-2022 10:57:43] Successfully hooked into "WorldGuard"!
+[10-12-2022 11:05:49] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[10-12-2022 11:05:50] Successfully hooked into "WorldGuard"!
+[10-12-2022 14:25:42] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[10-12-2022 14:25:43] Successfully hooked into "WorldGuard"!
+[10-12-2022 14:43:40] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[10-12-2022 14:43:41] Successfully hooked into "WorldGuard"!
+[10-12-2022 15:09:15] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[10-12-2022 15:09:15] Successfully hooked into "WorldGuard"!
+[10-12-2022 17:00:16] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[10-12-2022 17:00:16] Successfully hooked into "WorldGuard"!
+[10-12-2022 17:09:34] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[10-12-2022 17:09:35] Successfully hooked into "WorldGuard"!
+[10-12-2022 17:18:33] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[10-12-2022 17:18:33] Successfully hooked into "WorldGuard"!
+[10-12-2022 17:27:48] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[10-12-2022 17:27:48] Successfully hooked into "WorldGuard"!
+[11-12-2022 09:41:52] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-12-2022 09:41:53] Successfully hooked into "WorldGuard"!
+[11-12-2022 11:05:14] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-12-2022 11:05:15] Successfully hooked into "WorldGuard"!
+[11-12-2022 11:53:48] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-12-2022 11:53:49] Successfully hooked into "WorldGuard"!
+[11-12-2022 12:40:14] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-12-2022 12:40:15] Successfully hooked into "WorldGuard"!
+[11-12-2022 15:07:18] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-12-2022 15:07:18] Successfully hooked into "WorldGuard"!
+[11-12-2022 19:05:47] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-12-2022 19:05:47] Successfully hooked into "WorldGuard"!
+[11-12-2022 19:41:08] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-12-2022 19:41:08] Successfully hooked into "WorldGuard"!
+[11-12-2022 20:10:04] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-12-2022 20:10:05] Successfully hooked into "WorldGuard"!
+[11-12-2022 21:36:44] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-12-2022 21:36:45] Successfully hooked into "WorldGuard"!
+[11-12-2022 21:40:50] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[11-12-2022 21:40:51] Successfully hooked into "WorldGuard"!
+[12-12-2022 08:00:48] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-12-2022 08:00:48] Successfully hooked into "WorldGuard"!
+[12-12-2022 14:15:51] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-12-2022 14:15:52] Successfully hooked into "WorldGuard"!
+[12-12-2022 14:20:52] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-12-2022 14:20:52] Successfully hooked into "WorldGuard"!
+[12-12-2022 14:26:32] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-12-2022 14:26:32] Successfully hooked into "WorldGuard"!
+[12-12-2022 14:43:04] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-12-2022 14:43:04] Successfully hooked into "WorldGuard"!
+[12-12-2022 14:54:23] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-12-2022 14:54:23] Successfully hooked into "WorldGuard"!
+[12-12-2022 15:12:26] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-12-2022 15:12:27] Successfully hooked into "WorldGuard"!
+[12-12-2022 15:21:18] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-12-2022 15:21:18] Successfully hooked into "WorldGuard"!
+[12-12-2022 16:25:54] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-12-2022 16:25:54] Successfully hooked into "WorldGuard"!
+[12-12-2022 16:31:22] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-12-2022 16:31:22] Successfully hooked into "WorldGuard"!
+[12-12-2022 16:38:39] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-12-2022 16:38:39] Successfully hooked into "WorldGuard"!
+[12-12-2022 16:58:51] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[12-12-2022 16:58:51] Successfully hooked into "WorldGuard"!
+[13-12-2022 16:10:43] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-12-2022 16:10:43] Successfully hooked into "WorldGuard"!
+[13-12-2022 16:13:02] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-12-2022 16:13:02] Successfully hooked into "WorldGuard"!
+[13-12-2022 17:24:32] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-12-2022 17:24:33] Successfully hooked into "WorldGuard"!
+[13-12-2022 18:48:40] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-12-2022 18:48:40] Successfully hooked into "WorldGuard"!
+[13-12-2022 19:18:52] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-12-2022 19:18:52] Successfully hooked into "WorldGuard"!
+[13-12-2022 19:44:03] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[13-12-2022 19:44:03] Successfully hooked into "WorldGuard"!
+[13-12-2022 20:34:34] Updating openDirection of portcullis 7 "backstage" to UP. If this is undesired, change it via the GUI.
+[13-12-2022 20:37:18] Updating openDirection of portcullis 8 "backstage" to UP. If this is undesired, change it via the GUI.
+[13-12-2022 20:58:22] Updating openDirection of portcullis 9 "backstage-door" to UP. If this is undesired, change it via the GUI.
+[13-12-2022 21:32:53] Updating openDirection of portcullis 10 "stage_curtains" to UP. If this is undesired, change it via the GUI.
+[14-12-2022 12:21:51] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[14-12-2022 12:21:51] Successfully hooked into "WorldGuard"!
+[15-12-2022 15:10:05] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[15-12-2022 15:10:06] Successfully hooked into "WorldGuard"!
+[15-12-2022 15:14:31] Starting BigDoors version: Alpha 0.1.8.40 (b1110)
+[15-12-2022 15:14:31] Successfully hooked into "WorldGuard"!

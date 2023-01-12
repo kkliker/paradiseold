@@ -1,0 +1,168 @@
+####################################################################################################
+# +----------------------------------------------------------------------------------------------+ #
+# |                                      _         _   _   ___       _                           | #
+# |                             _ __   /_\  _ __ | |_(_) / __\ ___ | |_                          | #
+# |                            | '_ \ //_\\| '_ \| __| |/__\/// _ \| __|                         | #
+# |                            | | | /  _  \ | | | |_| / \/  \ (_) | |_                          | #
+# |                            |_| |_\_/ \_/_| |_|\__|_\_____/\___/ \__|                         | #
+# |                                                                                              | #
+# |                                 A ready-to-use antibot plugin                                | #
+# |                                                                                              | #
+# |                                © 2022 - Powered by nickuc.com                                | #
+# |                                                                                              | #
+# |                                                                                              | #
+# |  Novas opções não são adicionadas automaticamente neste arquivo. Valores padrões são usados  | #
+# |  caso uma opção não seja encontrada.                                                         | #
+# +----------------------------------------------------------------------------------------------+ #
+####################################################################################################
+
+other:
+  title: "&c&lNANTIBOT"
+  chat-prefix: "&4&lNANTIBOT &e» &7"
+  attack-started: "&7Um ataque de bots foi iniciado..."
+
+  ongoing-attack:
+    - ""
+    - " &cUm ataque está sendo mitigado pelo nAntiBot"
+    - ""
+    - "  &c■ &7Tipo de ataque: &f{0}"
+    - "  &c■ &7Início do ataque: &f{1}"
+    - ""
+    - " &e➣ &7Utilize &f'/ab notify' &7para mais informações."
+    - ""
+
+  finalized-attack:
+    - ""
+    - " &cUm ataque foi mitigado pelo nAntiBot"
+    - ""
+    - "  &c■ &7Tipo de ataque: &f{0}"
+    - ""
+    - "  &c■ &7Conexões bloqueadas: &f{3}"
+    - "  &c■ &7Pico de conexões: &f{4}"
+    - ""
+    - "  &c■ &7Início do ataque: &f{1}"
+    - "  &c■ &7Fim do ataque: &f{2}"
+    - ""
+
+command:
+  insufficient-permission: "&cDesculpe, mas você não tem permissão &8(&e{0}&8) &cpara executar este comando."
+  reload: "&aConfigurações recarregadas."
+  usage: "&cUso: /{0}"
+  unknown-address: "&cDesculpe, mas este endereço de ip não existe."
+
+actionbar:
+  active: "&a&l%animation% &6nAntiBot &3> %status% &3| &7Join/s %join_sec%  &7Ping/s %ping_sec%  &7CPS %cps%  &7Total &f%total%  &7Captcha: &f%captcha_check%  &7Cloud: &f%cloud_check%  &7Malloc &f≃ %mem_alloc% &3| &a⬆ &f%output% &c⬇ &f%input%"
+  inactive: "&a&l%animation% &6nAntiBot &3> %status% &3| &7Join/s %join_sec%  &7Ping/s %ping_sec%  &7Captcha: &f%captcha_check%  &7Malloc &f≃ %mem_alloc% &3| &a⬆ &f%output% &c⬇ &f%input%"
+
+captcha:
+  invalid: "&cVocê inseriu um código inválido, por favor tente novamente."
+
+  join:
+    title: "&a&lBEM-VINDO!"
+    subtitle: "&fPor favor, insira o código no chat."
+
+  solved:
+    title: "&a&lTUDO CERTO!"
+    subtitle: "&fPor favor, entre novamente no servidor."
+
+  kick:
+    timeout:
+      - "&cVocê demorou muito para resolver o captcha."
+      - ""
+      - "&ePor favor, entre novamente no servidor."
+
+    many-tries:
+      - "&cVocê errou o código do captcha muitas vezes."
+      - ""
+      - "&ePor favor, entre novamente no servidor."
+
+    solved:
+      - "&aCaptcha concluído com sucesso!"
+      - ""
+      - "&fPor favor, entre novamente no servidor."
+
+kick:
+  awaiting-cloud:
+    - "&c&lANTIBOT"
+    - ""
+    - "&cAguardando conexão com o serviço na nuvem."
+    - ""
+    - "&ePor favor, aguarde alguns segundos e entre novamente."
+
+  awaiting-captcha:
+    - "&c&lANTIBOT"
+    - ""
+    - "&cAguardando geração de captchas."
+    - ""
+    - "&ePor favor, aguarde alguns segundos e entre novamente."
+
+  attack-started:
+    - "&c&lANTIBOT"
+    - ""
+    - "&cUm ataque bot foi iniciado instantes atrás."
+    - ""
+    - "&ePor favor, entre novamente no servidor."
+
+  invalid-nickname:
+    - "&c&lANTIBOT"
+    - ""
+    - "&cDesculpe, mas o seu nickname é inválido."
+    - ""
+    - "&eEm caso de problemas, tente revisar o nickname digitado."
+
+  fast-join:
+    - "&c&lANTIBOT"
+    - ""
+    - "&cVocê logou muito rápido."
+    - ""
+    - "&ePor favor, aguarde alguns segundos e entre novamente."
+
+  too-many-joins:
+    - "&c&lANTIBOT"
+    - ""
+    - "&cVocê logou muitas vezes."
+    - ""
+    - "&ePor favor, aguarde alguns segundos e entre novamente."
+
+  address-limit:
+    - "&c&lANTIBOT"
+    - ""
+    - "&cVocê esgotou os limites de contas conectadas por IP."
+
+  checking:
+    - "&c&lANTIBOT"
+    - ""
+    - "&cVocê está sendo verificado, por favor aguarde."
+
+  country-block:
+    - "&c&lANTIBOT"
+    - ""
+    - "&cO seu país não é permitido no servidor."
+
+  online-verification:
+    - "&c&lANTIBOT"
+    - ""
+    - "&cÉ necessário confirmar a sua identidade."
+    - ""
+    - "&cAcesse o site &b{0} &ce insira o código &b{1}"
+    - "&cpara confirmar o seu login."
+    - ""
+    - "&eVocê poderá logar imediatamente após fazer isso."
+
+  temporary-ban:
+    - "&c&lANTIBOT"
+    - ""
+    - "&cVocê foi banido temporariamente pelo antibot!"
+    - ""
+    - "&cTempo restante: &f{0} seconds"
+    - ""
+    - "&cMotivo:"
+    - "&e'{1}'"
+
+  temporary-ban-less:
+    - "&c&lANTIBOT"
+    - ""
+    - "&cVocê foi banido temporariamente pelo antibot!"
+    - ""
+    - "&cMotivo:"
+    - "&e'{0}'"

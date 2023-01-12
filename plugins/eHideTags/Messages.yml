@@ -1,0 +1,6 @@
+Help:
+  Reload: '&aReloads plugin configuration'
+Reload: '&aConfig successfully reloaded'
+Wrong-Usage: '&7Wrong usage! Please type &6/eht help&7!'
+NoPermission: '&cYou do not have permission for this!'
+Prefix: §6eHideTags

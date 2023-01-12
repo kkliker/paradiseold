@@ -1,0 +1,1 @@
+execute if entity @s[predicate=ninjam:crawl/trigger,x_rotation=20..70] unless entity @e[type=minecraft:area_effect_cloud,tag=ninjam.crawl,distance=..1.3] run function ninjam:system/crawl/check

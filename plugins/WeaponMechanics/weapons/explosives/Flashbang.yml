@@ -1,0 +1,91 @@
+Flashbang:
+  Info:
+    Weapon_Item:
+      Type: "BLACK_CANDLE"
+      Name: "<gold>Flashbang"
+      Lore:
+        - "<gray>Device that blinds and slows the target when detonated."
+        - ""
+        - "<gray>Weapon Statistics"
+        - "<gold>➣<gray> 8 <gold>⟸ <gray>Explosion radius"
+      Unbreakable: true
+      Hide_Flags: true
+      Deny_Use_In_Crafting: true
+    Weapon_Get_Mechanics:
+      Sounds:
+        - "ITEM_ARMOR_EQUIP_CHAIN-1-0.75"
+    Cancel:
+      Block_Interactions: true
+      Item_Interactions: true
+  Projectile:
+    Projectile_Settings:
+      Type: "PRIMED_TNT"
+      Disable_Entity_Collisions: true
+    Bouncy:
+      Maximum_Bounce_Amount: -1
+      Blocks:
+        Allow_Any: true
+        Default_Speed_Multiplier: 0.6
+      Rolling:
+        Required_Motion_To_Start_Rolling: 6
+        Blocks:
+          Allow_Any: true
+          Default_Speed_Multiplier: 0.9
+          List:
+            - "$_ICE-0.99"
+            - "ICE-0.99"
+  Shoot:
+    Trigger:
+      Main_Hand: "RIGHT_CLICK"
+      Off_Hand: "RIGHT_CLICK"
+      Circumstance:
+        Swimming: "DENY"
+    Projectile_Speed: 36
+    Delay_Between_Shots: 20
+    Consume_Item_On_Shoot: true
+    Mechanics:
+      Sounds:
+        - "ENTITY_EGG_THROW-0.5-1-0-0.1"
+  Explosion:
+    Disable_Vanilla_Knockback: true
+    Explosion_Exposure: "DEFAULT"
+    Explosion_Shape: "SPHERE"
+    Explosion_Type_Data:
+      Radius: 8
+    Detonation:
+      Delay_After_Impact: 60
+      Remove_Projectile_On_Detonation: true
+      Impact_When:
+        Spawn: true
+    Flashbang:
+      Effect_Distance: 8
+      Mechanics:
+        Sounds:
+          - "ENTITY_GENERIC_EXTINGUISH_FIRE-0.5-1-0-0.1"
+        Potion_Effects:
+          - "BLINDNESS-100-1-false"
+          - "SLOW-200-2-false"
+    Mechanics:
+      Sounds:
+        - "ENTITY_GENERIC_DRINK-6-2-0-0.1"
+        - "ENTITY_GENERIC_BURN-6-2-0-0.1"
+
+  # The following options are added by WeaponMechanicsCosmetics, and you will
+  # not see the changes take effect until you purchase it.
+
+  Cosmetics:
+    Splash_Mechanics:
+      Sounds:
+        - entity_generic_splash 1 1.85 0 0.15
+      Particles:
+        Particle_1:
+          Type: WATER_SPLASH
+          Count: 25
+          Noise: 0.2-0.2-0.2
+
+  Trail:
+    Distance_Between_Particles: 0.7
+    Particle_Chooser: LOOP
+    Particles:
+      Particle_1:
+        Type: ELECTRIC_SPARK

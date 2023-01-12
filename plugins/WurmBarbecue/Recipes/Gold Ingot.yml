@@ -1,0 +1,20 @@
+WurmBarbecueRecipe:
+  Activated: true
+  Educt Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_GOLD_ORE
+  Product Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_GOLD_INGOT
+  Recipe Type: 1
+  Cooking Time: 50
+  Educt Message: A Luxurious gold ore. Keep an eye on other players while melting
+    it...
+  Product Message: A perfect and smooth gold ingot has been melted
+  Recipe Book:
+    Educt Name: Gold ore
+    Product Name: Gold ingot
+    Recipe Name: Gold ingot
+    Description: A precious resource for clocks

@@ -1,0 +1,23 @@
+WurmBarbecueRecipe:
+  Activated: true
+  Educt Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_SPONGE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 1
+  Product Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_SPONGE
+  Recipe Type: 1
+  Cooking Time: 10
+  Educt Message: Your sponge loses water!
+  Product Message: Dry and clean again!
+  Recipe Book:
+    Educt Name: Wet sponge
+    Product Name: Dry sponge
+    Recipe Name: Dry sponge
+    Description: Helpful underwater

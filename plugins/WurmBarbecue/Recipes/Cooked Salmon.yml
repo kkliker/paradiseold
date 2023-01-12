@@ -1,0 +1,27 @@
+WurmBarbecueRecipe:
+  Activated: true
+  Educt Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_RAW_FISH
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 1
+  Product Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_COOKED_FISH
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 1
+  Recipe Type: 0
+  Cooking Time: 50
+  Educt Message: A rose-coulored fresh salmon
+  Product Message: Your salmon is ready...
+  Recipe Book:
+    Educt Name: Raw salmon
+    Product Name: Cooked salmon
+    Recipe Name: Salmon with chili crust
+    Description: A Mexican taste!

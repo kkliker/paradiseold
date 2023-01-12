@@ -1,0 +1,19 @@
+WurmBarbecueRecipe:
+  Activated: true
+  Educt Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_PORK
+  Product Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_GRILLED_PORK
+  Recipe Type: 0
+  Cooking Time: 20
+  Educt Message: Your pork is beeing grilled now...
+  Product Message: Your pork should be fine now!
+  Recipe Book:
+    Educt Name: Raw pork
+    Product Name: Cooked pork
+    Recipe Name: Classic cooked pork
+    Description: Ideal for burgers!

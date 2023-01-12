@@ -1,0 +1,1 @@
+execute if score McVersion fktool matches 11700.. anchored eyes rotated ~ 0 positioned ^ ^.3 ^.6 align xyz positioned ~.5 ~.4 ~.5 if block ~ ~ ~ #ninjam:wallclimb/1.17 unless block ~ ~-1 ~ #ninjam:wallclimb/1.17 at @s run function ninjam:system/wallclimb/spawn

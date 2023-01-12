@@ -1,0 +1,19 @@
+WurmBarbecueRecipe:
+  Activated: true
+  Educt Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_COBBLESTONE
+  Product Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_STONE
+  Recipe Type: 1
+  Cooking Time: 30
+  Educt Message: A dirty piece of cobblestone...
+  Product Message: This smooth stone is a perfect material for houses!
+  Recipe Book:
+    Educt Name: Cobblestone
+    Product Name: Cleanstone
+    Recipe Name: Cleanstone
+    Description: The classics in building streets

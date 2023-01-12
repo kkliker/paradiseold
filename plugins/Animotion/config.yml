@@ -1,0 +1,7 @@
+#
+# ANIMOTION by AH4
+# CC BY-NC licence
+
+messages:
+  already-playing: '&cAnimotion can''t be played because you''re already on another!'
+  cant-execute-command: '&cYou can''t execute command while playing animotion'

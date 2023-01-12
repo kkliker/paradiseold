@@ -1,0 +1,19 @@
+WurmBarbecueRecipe:
+  Activated: true
+  Educt Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_MUTTON
+  Product Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_COOKED_MUTTON
+  Recipe Type: 0
+  Cooking Time: 35
+  Educt Message: The mutton will taste awesome
+  Product Message: Can you smell the sheep?
+  Recipe Book:
+    Educt Name: Raw mutton
+    Product Name: Cooked mutton
+    Recipe Name: Mutton steak
+    Description: With an extra portion of wool

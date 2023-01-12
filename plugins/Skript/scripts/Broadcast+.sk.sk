@@ -1,0 +1,72 @@
+#---------------------------------------#
+# Broadcast+ Skript 2.0
+#
+# Requirements:
+# - Skript 
+# 
+# Permissions:
+# - broadcast.use - Have access to /broadcast
+#
+#---------------------------------------#
+
+options: 
+
+# Name of your server. (This is the header) **CHANGE THIS**
+    ServerName: &a&lWarfare&f&lMC &a&lAnnouncement
+
+# Color of the text (Color Code Only)
+    Color: &f
+
+# Color of lines (Color Code Only)
+    Lines: &e
+
+# Permission message
+    PermMSG: &cNo Permission
+	
+# No argument message
+    PermMSG: &cUsage: &f/broadcast (message)
+
+
+
+
+#------------------------------------------------------------------------------------------------------------#
+
+command /announcement [<text>]:
+    permission: broadcast.use
+    permission message: {@PermMSG}
+    trigger:
+        if arg 1 is set:
+            broadcast "&r&7------------------------" 
+            broadcast "&f&l    . . .&e&lОБЪЯВЛЕНИЕ&f&l. . . " 
+            broadcast "&7------------------------" 
+            broadcast " %argument% "
+            broadcast "&7------------------------" 
+        if arg 1 is not set:
+            message "&c&l<!> &cUsage: &f/bc <msg>"
+            
+command /discord:
+   permission: broadcast.use
+   permission message: {@PermMSG}
+   trigger:
+      broadcast "&r&7------------------------" 
+      broadcast "&f&l    . . .&e&lОБЪЯВЛЕНИЕ&f&l. . . "
+      broadcast "&7------------------------" 
+      broadcast "&f https://discord.gg/c4NBwsZjYw - наш дискорд-сервер"
+      broadcast "&7------------------------" 
+      
+command /sendds:
+   trigger:
+      send "&7------------------------" to player
+      send "&f https://discord.gg/c4NBwsZjYw - наш дискорд-сервер" to player
+      send "&7------------------------" to player  
+command /ooc:
+ trigger:
+  make player execute command "/openrp:channelswitch out-of-character"
+  send title "&fВы перешли в &eOOC &fчат" to player for 1 seconds
+command /rp:
+ trigger:
+  make player execute command "/openrp:channelswitch in-character"  
+  send title "&fВы перешли в &eRP &fчат" to player for 1 seconds
+      
+
+#------------------------------------------------------------------------------------------------------------#

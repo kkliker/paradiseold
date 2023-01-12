@@ -1,0 +1,2 @@
+execute if entity @s[predicate=ninjam:walljump/trigger] unless entity @e[type=minecraft:marker,tag=ninjam.walljump,distance=..1.2] if score @s ninjam.WallJump < #3 fktool run function ninjam:system/walljump/check
+execute unless block ~ ~-.8 ~ minecraft:barrier if entity @s[nbt={OnGround:1b}] unless entity @e[type=minecraft:marker,tag=ninjam.walljump,distance=..1.2] unless entity @e[type=minecraft:marker,tag=ninjam.wallrun,distance=..1.2] run scoreboard players set @s ninjam.WallJump 0

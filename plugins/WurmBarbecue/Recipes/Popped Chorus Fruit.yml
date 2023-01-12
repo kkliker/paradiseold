@@ -1,0 +1,19 @@
+WurmBarbecueRecipe:
+  Activated: true
+  Educt Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_CHORUS_FRUIT
+  Product Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_CHORUS_FRUIT_POPPED
+  Recipe Type: 0
+  Cooking Time: 25
+  Educt Message: This fruit looks interesting
+  Product Message: A popped chorus fruit
+  Recipe Book:
+    Educt Name: Chorus fruit
+    Product Name: Popped chorus fruit
+    Recipe Name: Enderman fruit salad
+    Description: Warps you around!

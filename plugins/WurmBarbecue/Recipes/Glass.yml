@@ -1,0 +1,19 @@
+WurmBarbecueRecipe:
+  Activated: true
+  Educt Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_SAND
+  Product Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_GLASS
+  Recipe Type: 1
+  Cooking Time: 30
+  Educt Message: This will give a transparent block of glass!
+  Product Message: Your sand should be melted by now...
+  Recipe Book:
+    Educt Name: Sand
+    Product Name: Glass
+    Recipe Name: Glass
+    Description: Transparent, clean & modern

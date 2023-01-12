@@ -1,0 +1,42 @@
+[
+  {
+    "uuid": "e4cf2c1a-3b44-32c9-9174-3070ed976527",
+    "name": "6241852876607",
+    "created": "2022-12-10 11:19:36 +0000",
+    "source": "kanduz",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "090d498f-8626-3a62-b486-e992b8ac61b9",
+    "name": "NeBanipch",
+    "created": "2022-12-12 17:17:14 +0000",
+    "source": "Waind",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "7dafb706-d8c5-3e24-9b60-6fef5606c903",
+    "name": "8049713737668",
+    "created": "2022-12-10 11:21:37 +0000",
+    "source": "kanduz",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "a2e1213f-9a95-37b8-8bb7-cf09d8069abf",
+    "name": "1511476696012",
+    "created": "2022-12-10 11:26:34 +0000",
+    "source": "C0nnor123",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "a9a7ba07-6209-3434-abee-147e1555ba9c",
+    "name": "199985270",
+    "created": "2022-12-10 17:20:12 +0000",
+    "source": "C0nnor123",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

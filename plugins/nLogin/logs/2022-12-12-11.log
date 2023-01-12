@@ -1,0 +1,24 @@
+[12/12/2022 16:38:11]:           __             _       
+[12/12/2022 16:38:11]:   _ __   / /  ___   __ _(_)_ __  
+[12/12/2022 16:38:11]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[12/12/2022 16:38:11]:  | | | / /__| (_) | (_| | | | | |
+[12/12/2022 16:38:11]:  |_| |_\____/\___/ \__, |_|_| |_|
+[12/12/2022 16:38:11]:                   |___/            
+[12/12/2022 16:38:11]:  By: www.nickuc.com - V 10.1.8 DEVELOPMENT
+[12/12/2022 16:38:11]: 
+[12/12/2022 16:38:11]: §3[nLogin] [DEBUG] Detecting hardware and software configurations...
+[12/12/2022 16:38:12]: §3[nLogin] [DEBUG] All settings were loaded in 688 ms.
+[12/12/2022 16:38:12]: §3[nLogin] [DEBUG] Loading the messages_ru.yml message file...
+[12/12/2022 16:38:12]: §3[nLogin] [DEBUG] All plugin messages were loaded in 112 ms (languageByClient=false).
+[12/12/2022 16:38:12]: §3[nLogin] [DEBUG] All proxy settings were loaded in 1 ms.
+[12/12/2022 16:38:12]: §3[nLogin] [DEBUG] Starting logger filter...
+[12/12/2022 16:38:12]: §3[nLogin] [DEBUG] Loading database...
+[12/12/2022 16:38:15]: [nLogin] nLogin was loaded in 4409ms.
+[12/12/2022 16:55:05]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `realname` = 'qShip', `uniqueId` = 5210a989af313423b0fa5a492620269e,  `premiumId` = null,  `premium` = -1,  `password` = '$SHA512$aae4253cd8b8e2529453eb979d9b0f928b6fd2b459b5cd85eb60578f81e9cfdf693c938b8a18febe0316d12b60ed7acebc3c23996b048f37634187ff6f558a0e$ivrFCXsopAeAjUUMRBYcYblT', `address` = '77.40.61.39', `regdate` = 2022-11-12 16:00:11.834, `lastlogin` = 2022-12-12 16:55:05.049, `email` = null, `twitter` = null, `discord` = null, `settings` = '{"settings":[{"value":"mQz90Oim1d9J3rPUt/dxLco+kxiQgr/Qxn1sFftBtA3/JhAh3rZTxmqk2gKoLaMbinkxGp4f3RJkqcY4zPWCaiWZZpeV5Isu91HGSYsDXFnYR37OOgjRuZ865L9PREFFR4qhPvOqNXYT38dakCXmwNtaIhjWZC8r3uFS1QsxzlOJSAXlKFMnppO1DXNhA3hDRLh8rXktsBPXjHMpG1QZPOBTT1N7AdIVTZqJV317opnnKJKYlsxJqDAx4j02Ny+cANzcoj/PtSgdFARqc6diDfkOK+3Q6VGQSBNnpyKnI2X7Xl3OIhZ3uoiJMzXoXHFYgOE/ATzL8IrLoEj9XpYWgerDusYG/zhAmD5ftiJrOW6ofEddw78LLCNDWs5L9oJnGfLPujtnhszuC+LH1DJ8+ANW8yJKJ4FvBmQ1n1WbW5evN7UQE2cNy+FpZLUEcwf9DMnnTUSZMIb87kpotZ+Sk1qicEvc6byNox6louuu5AFiH2IuJhNcer6c+SVUFL/5rUaedIA4cAeZL4XDjjza8rETZApbkGqCQL9qlNZHT73EaPeJ3o3LbGyfEGe045HeIZX1Dq0LI1IQgTGaQx9sBos9rBfDYDdlK397+hbB/CeItiXQklT286wrKIUOH8Mc6eeW0IZvwCT85rFxKzg0fGdYG1DOtKr/xMk8ZhZcTOE=:ILOTdRFkyqsAsrPAUEdec5Ke45LwOvxgTQOPzIL43JmT/ecSe1W1V/V9w6hbkd4WqTM=","key":"encrypted"}],"version":0}' WHERE `id` = 1"
+[12/12/2022 16:55:05]: [nLogin] The user qShip has successfully logged in.
+[12/12/2022 16:57:17]: [nLogin] Could not install: update was not confirmed by the user.
+[12/12/2022 16:57:17]: [nLogin] Successful plugin core shutdown (took 0.00s)
+[12/12/2022 16:57:17]: [nLogin] 
+[12/12/2022 16:57:17]: [nLogin] Shutting down nLogin V 10.1.8...
+[12/12/2022 16:57:17]: [nLogin] 
+[12/12/2022 16:57:17]: [nLogin] nLogin was unloaded in 1ms.

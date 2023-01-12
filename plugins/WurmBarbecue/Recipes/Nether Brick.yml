@@ -1,0 +1,19 @@
+WurmBarbecueRecipe:
+  Activated: true
+  Educt Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_NETHERRACK
+  Product Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_NETHER_BRICK_ITEM
+  Recipe Type: 1
+  Cooking Time: 30
+  Educt Message: Netherrack can be burned to netherbricks
+  Product Message: Here are some netherbricks!
+  Recipe Book:
+    Educt Name: Netherrack
+    Product Name: Netherbrick
+    Recipe Name: Netherbricks
+    Description: Very important for building BBQ Places :)

@@ -1,0 +1,213 @@
+# OpenRP Descriptions
+
+# Permission for /character set
+use-perm: orpdesc.set
+
+# Permission for /character override
+override-perm: orpdesc.override
+
+# Permission for /character check
+check-perm: orpdesc.check
+
+# Permission to bypass the "cooldown" value of all fields.
+bypass-cooldown-perm: orpdesc.bypasscooldown
+
+# Permission for /character profile
+profile-perm: orpdesc.profile
+
+# Max amount of profiles players should use, -1 for unlimited
+max-profiles: 5
+
+# Permission to bypass max-profiles
+bypass-max-profiles-perm: orpdesc.bypassmaxprofiles
+
+fields:
+   # In the default config, there are several fields added
+   # You can add your own custom fields according to this guide (+ FAQ!):
+   # https://github.com/fishydarwin/OpenRP/wiki/%5B3%5D-OpenRP-Descriptions.-How-do-I-set-it-up%3F
+   Имя:
+      allowed-values:
+         type: contains
+         case-sensitive: false
+         value: "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯABCDEFGHIJKLMNOPQRSTUVWXYZ"
+      length:
+         minimum: 3
+         maximum: 24
+      color-code-perm: orpdesc.name.color
+      cooldown: 3
+      default-value: Неизвестный
+   
+   Фамилия:
+      allowed-values:
+         type: contains
+         case-sensitive: false
+         value: "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯABCDEFGHIJKLMNOPQRSTUVWXYZ"
+      length:
+         minimum: 3
+         maximum: 24
+      color-code-perm: orpdesc.name.color
+      cooldown: 3
+      default-value: Нет фамилии
+   Возраст:
+      allowed-values:
+         type: list
+         case-sensitive: false
+         value:
+         - 15
+         - 16
+         - 17
+         - 18
+         - 19
+         - 20
+         - 21
+         - 22
+         - 23
+         - 24
+         - 25
+         - 26
+         - 27
+         - 28
+         - 29
+         - 30
+         - 31
+         - 32
+         - 33
+         - 34
+         - 35
+         - 36
+         - 37
+         - 38
+         - 39
+         - 40
+         - 41
+         - 42
+         - 43
+         - 44
+         - 45
+         - 46
+         - 47
+         - 48
+         - 49
+         - 50
+         - 51
+         - 52
+         - 53
+         - 54
+         - 55
+         - 56
+         - 57
+         - 58
+         - 59
+         - 60
+         - 61
+         - 62
+         - 63
+         - 64
+         - 65
+         - 66
+         - 67
+         - 68
+         - 69
+         - 70
+      color-code-perm: orpdesc.name.color
+      cooldown: 3
+      default-value: Неизвестно
+   Пол:
+      allowed-values:
+         type: list
+         case-sensitive: true
+         value:
+         - Мужчина
+         - Женщина
+      color-code-perm: orpdesc.desc.color
+      cooldown: 3
+      default-value: Неизвестно
+   Рост:
+      allowed-values:
+        type: list
+        case-sensitive: false
+        value:
+        - 150
+        - 151
+        - 152
+        - 153
+        - 154
+        - 155
+        - 156
+        - 157
+        - 158
+        - 159
+        - 160
+        - 161
+        - 162
+        - 163
+        - 164
+        - 165
+        - 166
+        - 167
+        - 168
+        - 169
+        - 170
+        - 171
+        - 172
+        - 173
+        - 174
+        - 175
+        - 176
+        - 177
+        - 178
+        - 179
+        - 180
+        - 181
+        - 182
+        - 183
+        - 184
+        - 185
+        - 186
+        - 187
+        - 188
+        - 189
+        - 190
+        - 191
+        - 192
+        - 193
+        - 194
+        - 195
+        - 196
+        - 197
+        - 198
+        - 199
+        - 200
+      color-code-perm: orpdesc.desc.color
+      cooldown: 3
+      default-value: Неизвестно
+   Описание:
+      allowed-values:
+         type: contains
+         case-sensitive: false
+         value: "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯABCDEFGHIJKLMNOPQRSTUVWXYZ,. -?!"
+      length:
+         minimum: 3
+         maximum: 200
+      color-code-perm: orpdesc.desc.color
+      cooldown: 0
+      default-value: Неизвестно  
+# Can a player be right clicked for you to see their description?
+right-click-player-to-view-description: true
+
+# Do players have to crouch in order to be able to right click a player for their description?
+must-crouch-to-view-description: true
+
+# What does the description look like when a player is right-clicked?
+description-format:
+- ''
+- '&8[ &x&f&f&e&6&0&0✰ &8] &x&f&f&e&6&0&0Информация об игроке {player}:'
+- ''
+- '&8 - &x&f&f&e&6&0&0 Имя: {orpdesc_Имя}'
+- '&8 - &x&f&f&e&6&0&0 Фамилия: {orpdesc_Фамилия}'
+- '&8 - &x&f&f&e&6&0&0 Возраст: {orpdesc_Возраст}'
+- '&8 - &x&f&f&e&6&0&0 Пол: {orpdesc_Пол}'
+- '&8 - &x&f&f&e&6&0&0 Рост: {orpdesc_Рост}'
+- '&8 - &x&f&f&e&6&0&0 Описание: '
+- '&8 -  &x&f&f&e&6&0&0{orpdesc_Описание}'
+- ''

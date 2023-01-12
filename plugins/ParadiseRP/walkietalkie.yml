@@ -1,0 +1,11 @@
+WalkieTalkie:
+  min: 40
+  default:
+    name: '&fЛюбительская рация'
+    protected: false
+    max: 200
+  police:
+    name: '&fПолицейская рация'
+    protected: true
+    permission: paradiserp.radio.police
+    max: 480

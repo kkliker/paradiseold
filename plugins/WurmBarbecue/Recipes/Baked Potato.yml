@@ -1,0 +1,19 @@
+WurmBarbecueRecipe:
+  Activated: true
+  Educt Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_POTATO_ITEM
+  Product Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_BAKED_POTATO
+  Recipe Type: 0
+  Cooking Time: 25
+  Educt Message: This big potato will give a nice meal...
+  Product Message: Cooked potato! What a great idea!
+  Recipe Book:
+    Educt Name: Raw potato
+    Product Name: Baked potato
+    Recipe Name: Fried potato
+    Description: A perfect side-dish

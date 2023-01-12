@@ -1,0 +1,19 @@
+WurmBarbecueRecipe:
+  Activated: true
+  Educt Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_WHEAT
+  Product Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_BREAD
+  Recipe Type: 0
+  Cooking Time: 60
+  Educt Message: This might take some time, but it will give a perfect side dish...
+  Product Message: Now this looks like bread should be like!
+  Recipe Book:
+    Educt Name: Wheat
+    Product Name: Bread
+    Recipe Name: Olive bread
+    Description: For smaller meals

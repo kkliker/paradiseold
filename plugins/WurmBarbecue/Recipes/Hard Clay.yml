@@ -1,0 +1,19 @@
+WurmBarbecueRecipe:
+  Activated: true
+  Educt Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_CLAY
+  Product Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_HARD_CLAY
+  Recipe Type: 1
+  Cooking Time: 40
+  Educt Message: Let's harden this!
+  Product Message: Wow thats hard!
+  Recipe Book:
+    Educt Name: Clay block
+    Product Name: Stained clay block
+    Recipe Name: Stained clay
+    Description: In many different colours

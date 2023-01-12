@@ -1,0 +1,19 @@
+[
+  {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "flags": {
+        "is_sprinting": true,
+        "is_sneaking": false
+      }
+    }
+  },
+  {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "nbt": "{OnGround:0b}"
+    }
+  }
+]

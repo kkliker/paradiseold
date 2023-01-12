@@ -1,0 +1,19 @@
+WurmBarbecueRecipe:
+  Activated: true
+  Educt Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_IRON_ORE
+  Product Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_IRON_INGOT
+  Recipe Type: 1
+  Cooking Time: 60
+  Educt Message: This iron ore is strong and clean! Best for swords
+  Product Message: Shiny iron has been melted!
+  Recipe Book:
+    Educt Name: Iron ore
+    Product Name: Iron ingot
+    Recipe Name: Iron ingot
+    Description: Shiny and strong

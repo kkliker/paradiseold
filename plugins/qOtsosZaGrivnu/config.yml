@@ -1,0 +1,8 @@
+# Total time in seconds(80sec = 1min + 20sec)
+
+TotalTime: 30
+
+# Messages
+
+YouDie: "&3[NLR] &fВы очнетесь через"
+TimerColor: "&f"

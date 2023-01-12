@@ -1,0 +1,36 @@
+[
+  {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "nbt": "{OnGround:0b}"
+    }
+  },
+  {
+    "condition": "minecraft:location_check",
+    "offsetY": 1,
+    "predicate": {
+      "block": {
+        "tag": "ninjam:airs"
+      }
+    }
+  },
+  {
+    "condition": "minecraft:location_check",
+    "offsetY": 0,
+    "predicate": {
+      "block": {
+        "tag": "ninjam:airs"
+      }
+    }
+  },
+  {
+    "condition": "minecraft:location_check",
+    "offsetY": -1,
+    "predicate": {
+      "block": {
+        "tag": "ninjam:fenceclimb/fencable"
+      }
+    }
+  }
+]

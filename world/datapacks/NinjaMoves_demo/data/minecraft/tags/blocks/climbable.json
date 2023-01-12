@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#minecraft:fences",
+    "#minecraft:buttons",
+    "minecraft:lightning_rod",
+    "minecraft:chain",
+    "minecraft:iron_bars",
+    "minecraft:bamboo"
+  ]
+}

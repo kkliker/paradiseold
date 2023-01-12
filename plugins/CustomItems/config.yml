@@ -1,0 +1,31 @@
+#          MADE BY JJARCAR
+## Variables :
+##  [money] Amount of money
+##  [player] Player’s Name
+# DO NOT put colors or magic it will make the test look weird!
+# Will be fixed in later update
+note:
+  material: PAPER
+  data: 0
+  name: " [money] &r$"
+  lore:
+    - "&Обычная банкнота"
+    - "[money]"
+
+##
+m:
+  insufficient-funds: "На счете недостаточно средств"
+  insufficient-permissions: "You do not have enough permissions"
+  inventory-full: "У вас нехватает места в инвентаре для получения банкноты"
+  invalid-note: "Банкнота поддельная, она будет удалена из вашего инвентаря"
+  invalid-number: "Вы ввели неправильное число"
+  note-created: "&rВы сняли со счета $[money]"
+  note-redeemed: "Banknote for $[money] has been redeemed"
+  nothing-in-hand: "There is nothing in your hand for you to redeem"
+  less-than-minimum: "The amount you entered is less than the minimum allowed amount of $[money]"
+  more-than-maximum: "The amount you entered is more than the maximum allowed amount of $[money]"
+
+##    SETTINGS
+s:
+  minimum-withdraw-amount: 1.0
+  maximum-withdraw-amount: 500000.0

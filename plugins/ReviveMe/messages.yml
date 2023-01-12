@@ -1,0 +1,112 @@
+victim_messages:
+  downed: You have been seriously injured!
+  downed_for_player: <enemy> has seriously injured you!
+  start_reliving: <reviver>  is reviving you.
+  stop_reliving: <reviver> has stopped reviving you.
+  revived: You have been revived!
+  revived_for_player: You have been revived by <reviver>
+enemy_messages:
+  downed: you have seriously injured <victim>
+reviver_messages:
+  start_reliving: You are reviving <victim>
+  stop_reliving: You stopped reviving <victim>
+  sucess_reliving: You have successfully revived <victim>
+command_messages:
+  downed: you have seriously injured <victim>
+  revived: You have successfully revived <victim>
+  kill: you killed <victim>
+  dont_permission: you dont have permission
+  blocked_command: youre too hurt to use this command!
+  player_no_downed: '&cThis player is not down!'
+  player_no_online: '&cThis player is not online!'
+plugin_messages:
+  config_reloaded: configuration reloaded successfully!
+status_messages:
+  waiting: Waiting
+  reliving: Reliving
+  no_downed: No downed
+time_messages:
+  second: second:seconds
+  minute: minute:minutes
+  hour: hour:hours
+action_bar_messages:
+  enabled: true
+  waiting_text: '&b✙&a: <invulnerability> status: <status> &4☠&c: <death_delay_time>'
+  reliving_text: 'status: <status>. &4☠&c: <death_delay_time> <bar>'
+  receives: downed,reviver,picker
+scoreboard_messages:
+  enabled: false
+  waiting_score_board:
+  - '&aWaiting...'
+  - ''
+  - '&4☠&c: <death_delay_time>'
+  - ''
+  - '&b✙&a: <invulnerability_time>'
+  - ''
+  - <bar1>
+  - ''
+  - <bar2>
+  reliving_score_board:
+  - '&aReliving'
+  - ''
+  - '&4☠&c: <death_delay_time>'
+  - ''
+  - '&b✙&a: <invulnerability_time>'
+  - ''
+  - <bar1>
+  - ''
+  - '&eReliving: &e<reviver>'
+  receives: downed,reviver,picker
+boss_bar_messages:
+  enable: false
+  waiting_boss_bar:
+    text: '&cWaiting for relive...'
+    color: red
+    style: solid
+    progress_type: BossBarDeathDelay
+  receives: downed,reviver,picker
+  reliving_boss_bar:
+    text: '&aReliving for <reviver>'
+    color: green
+    style: solid
+    progress_type: BossBarRelivingCount
+suicide_bar_message:
+  enabled: false
+  text: '&cSuicide in <suicide_count_done>&7/&c<suicide_count_max>'
+title_messages:
+  enabled: false
+  waiting_title: '&cWaiting for reliving'
+  waiting_subtitle: '&cDeath in <death_delay_time>'
+  reliving_title: '&aReliving for <reviver>'
+  reliving_subtitle: <bar1>
+  receives: downed,reviver,picker
+price_messages:
+  no_has_pay: '&cYou need <amount> <type> to do this!'
+disable_death_message: false
+zone_messages:
+  arg_error: '&c[Error] &7use &a/rm zone help&7 to get help.'
+  help_list_top: '&e----Revive zones----'
+  help_list_format: '&f- &e<name>'
+  help_item: '&e/rm zone item &7- Gets the item to mark the zone.'
+  help_create: '&e/rm czone reate <name> &7- Create a zone.'
+  help_list: '&e/rm zone list &7- List of created zones.'
+  help_remove: '&e/rm zone remove <name> &7- Delete a zone.'
+  command_item: '&7Left click: select pos #1; Right click: select pos #2'
+  pos1: '&7First position set to <pos>.'
+  pos2: '&7Second position set to <pos>.'
+  no_pos1: '&cYou have not set the first position'
+  no_pos2: '&cYou have not set the second position'
+  need_mark: '&cYou must mark the zone with /rm item'
+  already_exist: '&cAn zone with this name already exists'
+  no_exist: '&cThere is no zone with that name'
+  different_world: '&cThe positions are in different worlds'
+  only_player: '&cOnly players can use this command'
+  sucess_created: '&aThe zone has been created successfully'
+  removed_zone: '&cThe area has been removed'
+  no_number: '&cThe entered value is not a number.'
+  succes_change_speed: '&aChanged revive speed successfully'
+  help_speed: '&e/rm zone speed <name> <valeu> &7- Change revive speed.'
+  particle_enable: '&aThe particles have been activated!'
+  particle_disable: '&cParticles have been disabled'
+  particle_changed: '&aThe color of the particles has been changed!'
+  particle_type_changed: '&aParticle type changed!'

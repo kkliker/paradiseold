@@ -1,0 +1,102 @@
+# OpenRP Chat
+
+# Permission to bypass the "cooldown" value of each channel.
+bypass-cooldown-perm: orpchat.bypasscooldown
+
+# This is used if you type something in chat with no command. 
+# Remove this line to not have this feature.
+default: in-character
+
+channels:
+   # In the default config, there are several channels added
+   # You can add your own custom channels according to this guide (+ FAQ!):
+   # https://github.com/fishydarwin/OpenRP/wiki/%5B2%5D-OpenRP-Chat.-How-do-I-set-it-up%3F
+   in-character:
+      display-name: In Character Chat
+      commands:
+      - rpe
+      use-perm: orpchat.default
+      read-perm: orpchat.default
+      color-code-perm: orpchat.usecolors
+      format: '&7{orpdesc_Имя}: &f{message}'
+      range: 15
+      cooldown: 0
+      action:
+         symbol: '*'
+         replacement:
+            for-actions: '&e*'
+   outside-of-actions:
+      display-name: OOA
+      commands:
+      - nrp
+      use-perm: orpchat.default
+      read-perm: orpchat.default
+      color-code-perm: orpchat.usecolors
+      format: '&7{orpdesc_Имя}: &7((&7{message}))'
+      range: 15
+      cooldown: 0
+   out-of-character:
+      display-name: OOC
+      commands:
+      - oocb
+      use-perm: orpchat.default
+      read-perm: orpchat.default
+      color-code-perm: orpchat.usecolors
+      format: '&e[&eOOC] &7{player}: &7{message}'
+      range: 1000000000
+      cooldown: 0
+   action:
+      display-name: Action
+      commands:
+      - me
+      use-perm: orpchat.default
+      read-perm: orpchat.default
+      color-code-perm: orpchat.usecolors
+      format: '&e* &f{player} &e{message}'
+      range: 15
+      cooldown: 3
+   whisper-chat:
+      display-name: Шёпот
+      commands:
+      - whisper
+      - w
+      use-perm: orpchat.default
+      read-perm: orpchat.default
+      color-code-perm: orpchat.usecolors
+      format: '&7[&9Шёпот&7] {orpdesc_Имя} &7: &f{message}'
+      range: 3
+   shout:
+      display-name: Крик
+      commands:
+      - shout
+      - s
+      use-perm: orpchat.default
+      read-perm: orpchat.default
+      color-code-perm: orpchat.usecolors
+      format: '&7[&cКрик&7] {orpdesc_Имя} &7: &f{message}&c!'
+      range: 40
+   shiza:
+      display-name: Крик
+      commands:
+      - shiza
+      use-perm: orpchat.shiza
+      read-perm: orpchat.default
+      color-code-perm: orpchat.usecolors
+      format: '&7[&4Шизофрения&7] &f{message}'
+      range: 3
+
+#  custom-channel-example:
+#     display-name: Example Channel
+#     commands:
+#     - example
+#     use-perm: custom.use.perm
+#     read-perm: custom.read.perm
+#     color-code-perm: example.color.code.perm
+#     format: '&a[Example Chat] {player} {message}'
+#     range: 42
+#     cooldown: 42
+#     action:
+#        symbol: '*'
+#        replacement:
+#           outside-of-actions: '&f'
+#           for-actions: '&e*'

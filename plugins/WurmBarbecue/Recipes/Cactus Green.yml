@@ -1,0 +1,23 @@
+WurmBarbecueRecipe:
+  Activated: true
+  Educt Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_CACTUS
+  Product Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_INK_SACK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 2
+  Recipe Type: 1
+  Cooking Time: 20
+  Educt Message: Making some green color...
+  Product Message: Look at that beautiful green dye!
+  Recipe Book:
+    Educt Name: Cactus
+    Product Name: Cactus green
+    Recipe Name: Dark green dye
+    Description: Have you ever seen a green sheep?

@@ -1,0 +1,2 @@
+on first join:
+ make player execute command "/tp -442 72 441"

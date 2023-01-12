@@ -1,0 +1,23 @@
+Setting:
+  Admin-Notify: false
+  Player-Notify: false
+  AllowJoinMaxToLevel: 3
+  Playersendchat: false
+  FreezPlayer: false
+  Punishment: false
+  MaxIpsPerClient: 5
+  BetterAntibot:
+    usebetterantibot: true
+    startcheckafterbots: 3
+    stopactionbarafterbots: 10
+Messages:
+  Admin-Notify: '&6%player% &7is with a Proxy online! Proxylevel:&8 %proxylevel%'
+  Player-Notify: '&aYou have been successfully captured by the system.'
+  Chat: '&c&lYou are not allowed to chat! as you are online with a proxy!'
+  Punishment: kick %player% &4&lYou are online with a proxy! &6turn it off to access
+    the server
+  MaxIpsPerClient: '&4You have already reached the maximum of equal IP addresses!'
+  BetterAntibot: '&7%br%&8----------------[&4&lVPN-BLOCKER&8]----------------%br%%br%&8&l-
+    &7Player: &e%playername%%br%&8&l- &7Proxy-level: &c%proxylevel%%br%&8&l- &7Kickmessage:
+    &cDont use a VPN or Proxy!!!%br%%br%&8----------------[&4&lVPN-BLOCKER&8]----------------%br%'
+AllowProvider: []

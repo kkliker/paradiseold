@@ -1,0 +1,42 @@
+##########################################################
+#                    Pin Please Config                   #
+##########################################################
+
+Prefix: (PinPlease)
+#This is the prefix before all messages from the plugin.
+
+Primary_Format: '&b&l'
+#This would make plugin name bold and blue. Make sure you put it all in proper order!
+
+Secondary_Format: '&c'
+#This would make help messages red.
+
+Time_To_Keep_Open: 10
+#This is in ticks. There are 20 ticks in 1 second. Currently it will open for 1/2 a
+#second. To keep it open for 1 second, for example, you would put 20. To convert seconds
+#to ticks do <(seconds) * 20 = (ticks)>
+
+Staff_Master_Code: "2,4,3,1,1,2,3,4,2,3,5"
+#Code that staff can do to open any locked block. Don't let players know this!
+#Numbers can be from 1 -> 54 but if the pin panel is smaller than any of the numbers,
+#they can't be clicked. Keep this in mind.
+
+##########################################################
+#                      Permissions                       #
+##########################################################
+
+# PinPlease.admin
+#- Gives permissions to do ALL commands and ALL overrides
+
+# PinPlease.create
+#- Gives player permission to create THEIR pins
+
+# PinPlease.remove
+#- Gives player permission to remove THEIR pins.
+
+# PinPlease.showpin
+#- Gives player permission to see ANY pin.
+
+# PinPlease.size.#
+#- Sets the maximum size pin a player can set. If a player has no instance of this
+#permission, then they will not be limited by the size of the pins that they create.

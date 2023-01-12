@@ -1,0 +1,2 @@
+execute as @a[scores={ninjam.requires=1}] at @s run function ninjam:system/wallclimb/wallclimb
+execute as @e[type=minecraft:marker,tag=ninjam.wallclimb] at @s run function ninjam:system/wallclimb/entity

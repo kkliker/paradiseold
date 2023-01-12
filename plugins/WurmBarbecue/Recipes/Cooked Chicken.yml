@@ -1,0 +1,19 @@
+WurmBarbecueRecipe:
+  Activated: true
+  Educt Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_RAW_CHICKEN
+  Product Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_COOKED_CHICKEN
+  Recipe Type: 0
+  Cooking Time: 30
+  Educt Message: Chicken...this will be a great meal...
+  Product Message: The chicken smells awesome, it should be cooked now!
+  Recipe Book:
+    Educt Name: Raw beef
+    Product Name: Grilled beef
+    Recipe Name: Roasted beef
+    Description: The popular bbq-steak

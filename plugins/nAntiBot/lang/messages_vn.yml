@@ -1,0 +1,170 @@
+####################################################################################################
+# +----------------------------------------------------------------------------------------------+ #
+# |                                      _         _   _   ___       _                           | #
+# |                             _ __   /_\  _ __ | |_(_) / __\ ___ | |_                          | #
+# |                            | '_ \ //_\\| '_ \| __| |/__\/// _ \| __|                         | #
+# |                            | | | /  _  \ | | | |_| / \/  \ (_) | |_                          | #
+# |                            |_| |_\_/ \_/_| |_|\__|_\_____/\___/ \__|                         | #
+# |                                                                                              | #
+# |                                 Plugin nAntiBot sẵn sàng sử dụng                             | #
+# |                                                                                              | #
+# |                                © 2022 - Được cung cấp bởi nickuc.com                         | #
+# |                                                                                              | #
+# |                                                                                              | #
+# |  Các tùy chọn mới không được tự động thêm vào trong tệp này. Giá trị mặc định được sử dụng   | #
+# |  Nếu một tùy chọn không được tìm thấy                                                        | #
+# |                                                                                              | #
+# |  Translation made by: Võ Nhật Quang                                                          | #
+# +----------------------------------------------------------------------------------------------+ #
+####################################################################################################
+
+other:
+  title: "&c&lnAntiBot"
+  chat-prefix: "&4&lnAntiBot &e» &7"
+  attack-started: "&7Một cuộc tấn công bot đã được bắt đầu..."
+
+  ongoing-attack:
+    - ""
+    - " &cMột cuộc tấn công đang được giảm thiểu bởi nAntiBot"
+    - ""
+    - "  &c■ &7Loại tấn công: &f{0}"
+    - "  &c■ &7Bắt đầu cuộc tấn công: &f{1}"
+    - ""
+    - " &e➣ &7Sử dụng &f'/ab notify' &7để biết thêm thông tin."
+    - ""
+
+  finalized-attack:
+    - ""
+    - " &cMột cuộc tấn công đã được giảm thiểu bởi nAntiBot"
+    - ""
+    - "  &c■ &7Loại tấn công: &f{0}"
+    - ""
+    - "  &c■ &7Kết nối bị chặn: &f{3}"
+    - "  &c■ &7CPS cao nhất: &f{4}"
+    - ""
+    - "  &c■ &7Bắt đầu cuộc tấn công: &f{1}"
+    - "  &c■ &7Kết thúc cuộc tấn công: &f{2}"
+    - ""
+
+command:
+  insufficient-permission: "&cBạn không có quyền &8(&e{0}&8) &cđể thực hiện lệnh này."
+  reload: "&aCài đặt được tải lại."
+  usage: "&cSử dụng: /{0}"
+  unknown-address: "&cXin lỗi, nhưng địa chỉ IP này không tồn tại."
+
+actionbar:
+  active: "&a&l%animation% &6nAntiBot &3> %status% &3| &7Tham gia/s %join_sec%  &7Ping/s %ping_sec%  &7CPS %cps%  &7Tổng &f%total%  &7Mã xác minh: &f%captcha_check%  &7Đám mây: &f%cloud_check%  &7Cấp bộ nhớ &f≃ %mem_alloc% &3| &a⬆ &f%output% &c⬇ &f%input%"
+  inactive: "&a&l%animation% &6nAntiBot &3> %status% &3| &7Tham gia/s %join_sec%  &7Ping/s %ping_sec%  &7Mã xác minh: &f%captcha_check%  &7Cấp bộ nhớ &f≃ %mem_alloc% &3| &a⬆ &f%output% &c⬇ &f%input%"
+
+captcha:
+  invalid: "&cBạn đã nhập một mã không hợp lệ, vui lòng thử lại."
+
+  join:
+    title: "&a&lCHÀO BẠN!"
+    subtitle: "&fVui lòng nhập mã xác minh trên giấy."
+
+  solved:
+    title: "&a&lOK!"
+    subtitle: "&fHãy tham gia lại máy chủ của chúng tôi nhé."
+
+  kick:
+    timeout:
+      - "&cBạn đã mất quá nhiều thời gian để giải quyết mã xác minh."
+      - ""
+      - "&eVui lòng tham gia lại máy chủ."
+
+    many-tries:
+      - "&cBạn đã nhập mã xác minh không chính xác quá nhiều lần."
+      - ""
+      - "&eVui lòng tham gia lại máy chủ."
+
+    solved:
+      - "&aMã xác minh đã giải quyết thành công!"
+      - ""
+      - "&fVui lòng tham gia lại máy chủ."
+
+kick:
+  awaiting-cloud:
+    - "&c&lnAntiBot"
+    - ""
+    - "&cĐang chờ kết nối với dịch vụ đám mây."
+    - ""
+    - "&eVui lòng đợi một vài giây và đăng nhập lại."
+
+  awaiting-captcha:
+    - "&c&lnAntiBot"
+    - ""
+    - "&cHãy chờ chúng tôi thu thập mã xác minh."
+    - ""
+    - "&eVui lòng đợi một vài giây và đăng nhập lại."
+
+  attack-started:
+    - "&c&lnAntiBot"
+    - ""
+    - "&cMột cuộc tấn công bot đã được bắt đầu từ vài giây trước."
+    - ""
+    - "&eVui lòng tham gia lại máy chủ."
+
+  invalid-nickname:
+    - "&c&lnAntiBot"
+    - ""
+    - "&cXin lỗi, nhưng biệt danh của bạn không hợp lệ."
+    - ""
+    - "&eTrong trường hợp có vấn đề, hãy thử kiểm tra biệt danh bạn đã nhập."
+
+  fast-join:
+    - "&c&lnAntiBot"
+    - ""
+    - "&cBạn đã đăng nhập quá nhanh."
+    - ""
+    - "&eVui lòng đợi một vài giây và đăng nhập lại."
+
+  too-many-joins:
+    - "&c&lnAntiBot"
+    - ""
+    - "&cBạn đã đăng nhập nhiều lần."
+    - ""
+    - "&eVui lòng đợi một vài giây và đăng nhập lại."
+
+  address-limit:
+    - "&c&lnAntiBot"
+    - ""
+    - "&cBạn đã cạn kiệt giới hạn của các tài khoản được kết nối trên mỗi IP."
+
+  checking:
+    - "&c&lnAntiBot"
+    - ""
+    - "&cBạn đang được kiểm tra, vui lòng đợi."
+
+  country-block:
+    - "&c&lnAntiBot"
+    - ""
+    - "&cQuốc gia của bạn không được phép trên máy chủ."
+
+  online-verification:
+    - "&c&lnAntiBot"
+    - ""
+    - "&cNó là cần thiết để xác nhận danh tính của bạn."
+    - ""
+    - "&cĐi đến &b{0} &cvà nhập mã &b{1}"
+    - "&cđể xác nhận đăng nhập của bạn."
+    - ""
+    - "&eBạn sẽ có thể đăng nhập ngay sau khi làm như vậy."
+
+  temporary-ban:
+    - "&c&lnAntiBot"
+    - ""
+    - "&cBạn đã bị cấm tạm thời bởi nAntiBot!"
+    - ""
+    - "&cThời gian còn lại: &f{0} giây"
+    - ""
+    - "&cLý do:"
+    - "&e'{1}'"
+
+  temporary-ban-less:
+    - "&c&lnAntiBot"
+    - ""
+    - "&cBạn đã bị cấm tạm thời bởi nAntiBot!"
+    - ""
+    - "&cLý do:"
+    - "&e'{0}'"

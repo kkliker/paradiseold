@@ -1,0 +1,1 @@
+execute if entity @s[predicate=ninjam:wallclimb/trigger] unless entity @e[type=minecraft:marker,tag=ninjam.wallclimb,distance=...8] run function ninjam:system/wallclimb/check

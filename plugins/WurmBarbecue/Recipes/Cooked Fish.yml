@@ -1,0 +1,19 @@
+WurmBarbecueRecipe:
+  Activated: true
+  Educt Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_RAW_FISH
+  Product Material:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3120
+    type: LEGACY_COOKED_FISH
+  Recipe Type: 0
+  Cooking Time: 50
+  Educt Message: Fresh fish, spiced with a prize of sea-salt...
+  Product Message: The fish smells amazing! Try it!
+  Recipe Book:
+    Educt Name: Raw fish
+    Product Name: Cooked fish
+    Recipe Name: Salted fish
+    Description: Mediterranean flair with sea-salt
